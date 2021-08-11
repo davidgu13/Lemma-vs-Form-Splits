@@ -1,0 +1,2130 @@
+кepeк eту	V;SG;3;NEG;PST
+кepeк eту	V;FRML;SBJV;SG;2;FUT
+кepeк eту	V;FRML;PL;2;PST
+кepeк eту	V;FRML;IMP;SG;2;NEG
+кepeк eту	V;SBJV;PL;2;INFM;FUT
+кepeк eту	V;SG;3;PST
+кepeк eту	V;PROG;PL;3;PRS
+кepeк eту	V;PL;1;PST
+кepeк eту	V;PROG;PL;1;NEG;PST
+кepeк eту	V;PRF;SG;2;INFM;PST
+кepeк eту	V;PL;3;NEG;PST
+кepeк eту	V;FRML;PL;2;NEG;PRS
+кepeк eту	V;PRF;FRML;SG;2;PST
+кepeк eту	V;PL;3;NEG;PRS
+кepeк eту	V;PROG;SG;2;NEG;INFM;PST
+кepeк eту	V;PL;2;INFM;PST
+кepeк eту	V;PRF;PL;3;NEG;PST
+кepeк eту	V;PRF;PL;1;PST
+кepeк eту	V;PROG;FRML;PL;2;PST
+кepeк eту	V;SG;2;INFM;PST
+кepeк eту	V;PL;2;NEG;INFM;PST
+кepeк eту	V;PROG;SG;1;NEG;PRS
+кepeк eту	V;PRF;SG;1;PST
+кepeк eту	V;PL;3;PRS
+кepeк eту	V;IMP;PL;2;NEG;INFM
+кepeк eту	V;PROG;SG;3;NEG;PST
+кepeк eту	V;FRML;SBJV;PL;2;FUT
+кepeк eту	V;PRF;FRML;PL;2;NEG;PST
+кepeк eту	V;PRF;FRML;PL;2;PST
+кepeк eту	V;PROG;FRML;PL;2;PRS
+кepeк eту	V;PL;2;NEG;INFM;PRS
+кepeк eту	V;SBJV;SG;3;FUT
+кepeк eту	V;SG;2;INFM;PRS
+кepeк eту	V;SBJV;PL;1;FUT
+кepeк eту	V;FRML;IMP;SG;2
+кepeк eту	V;PL;2;INFM;PRS
+кepeк eту	V;PROG;SG;3;PRS
+кepeк eту	V;FRML;IMP;PL;2
+кepeк eту	V;PRF;SG;2;NEG;INFM;PST
+кepeк eту	V;SG;2;NEG;INFM;PST
+кepeк eту	V;FRML;SG;2;NEG;PST
+кepeк eту	V;PROG;PL;1;PST
+кepeк eту	V;SG;1;PRS
+кepeк eту	V;PROG;PL;2;INFM;PST
+кepeк eту	V;PRF;PL;1;NEG;PST
+кepeк eту	V;PROG;SG;3;PST
+кepeк eту	V;PROG;SG;2;INFM;PST
+кepeк eту	V;PROG;SG;1;PST
+кepeк eту	V;SG;3;PRS
+кepeк eту	V;PROG;FRML;PL;2;NEG;PRS
+кepeк eту	V;PROG;PL;3;NEG;PRS
+кepeк eту	V;PROG;PL;2;INFM;PRS
+кepeк eту	V;PROG;SG;2;INFM;PRS
+кepeк eту	V;PL;1;NEG;PRS
+кepeк eту	V;SG;3;NEG;PRS
+кepeк eту	V;PROG;PL;3;PST
+кepeк eту	V;FRML;PL;2;PRS
+кepeк eту	V;PROG;FRML;SG;2;NEG;PST
+кepeк eту	V;PL;1;PRS
+кepeк eту	V;PRF;SG;3;PST
+кepeк eту	V;SBJV;SG;2;INFM;FUT
+кepeк eту	V;SG;1;PST
+кepeк eту	V;PROG;PL;2;NEG;INFM;PRS
+кepeк eту	V;PL;3;PST
+кepeк eту	V;PROG;SG;1;NEG;PST
+кepeк eту	V;SG;2;NEG;INFM;PRS
+кepeк eту	V;PROG;FRML;SG;2;PST
+кepeк eту	V;IMP;SG;2;INFM
+кepeк eту	V;PROG;FRML;PL;2;NEG;PST
+кepeк eту	V;PL;1;NEG;PST
+кepeк eту	V;FRML;SG;2;PRS
+кepeк eту	V;PROG;PL;1;NEG;PRS
+кepeк eту	V;SG;1;NEG;PST
+кepeк eту	V;PRF;SG;3;NEG;PST
+кepeк eту	V;PROG;SG;1;PRS
+кepeк eту	V;PROG;SG;3;NEG;PRS
+кepeк eту	V;PROG;FRML;SG;2;PRS
+кepeк eту	V;SBJV;PL;3;FUT
+кepeк eту	V;PRF;PL;3;PST
+кepeк eту	V;PROG;PL;3;NEG;PST
+кepeк eту	V;FRML;PL;2;NEG;PST
+кepeк eту	V;IMP;SG;2;NEG;INFM
+кepeк eту	V;PROG;PL;1;PRS
+кepeк eту	V;PRF;PL;2;NEG;INFM;PST
+кepeк eту	V;PROG;SG;2;NEG;INFM;PRS
+кepeк eту	V;PRF;PL;2;INFM;PST
+кepeк eту	V;SG;1;NEG;PRS
+кepeк eту	V;SBJV;SG;1;FUT
+кepeк eту	V;PROG;PL;2;NEG;INFM;PST
+кepeк eту	V;FRML;IMP;PL;2;NEG
+кepeк eту	V;PRF;SG;1;NEG;PST
+кepeк eту	V;PRF;FRML;SG;2;NEG;PST
+кepeк eту	V;PROG;FRML;SG;2;NEG;PRS
+кepeк eту	V;FRML;SG;2;PST
+кepeк eту	V;FRML;SG;2;NEG;PRS
+кepeк eту	V;IMP;PL;2;INFM
+кeлу	V;SG;1;PST
+кeлу	V;SG;2;INFM;PRS
+кeлу	V;SG;3;NEG;PRS
+кeлу	V;PRF;PL;3;NEG;PST
+кeлу	V;SG;3;NEG;PST
+кeлу	V;FRML;SG;2;NEG;PRS
+кeлу	V;PROG;FRML;PL;2;PRS
+кeлу	V;PRF;SG;3;NEG;PST
+кeлу	V;PL;3;PRS
+кeлу	V;FRML;PL;2;NEG;PST
+кeлу	V;PROG;SG;3;NEG;PST
+кeлу	V;PL;1;PRS
+кeлу	V;PL;3;NEG;PRS
+кeлу	V;SBJV;SG;2;INFM;FUT
+кeлу	V;PL;1;PST
+кeлу	V;PL;1;NEG;PST
+кeлу	V;IMP;SG;2;NEG;INFM
+кeлу	V;PRF;FRML;SG;2;NEG;PST
+кeлу	V;SG;2;NEG;INFM;PRS
+кeлу	V;PROG;SG;1;NEG;PRS
+кeлу	V;FRML;IMP;SG;2
+кeлу	V;PL;2;INFM;PST
+кeлу	V;PROG;SG;3;PRS
+кeлу	V;IMP;PL;2;INFM
+кeлу	V;IMP;PL;2;NEG;INFM
+кeлу	V;PROG;FRML;SG;2;PST
+кeлу	V;PROG;PL;1;NEG;PRS
+кeлу	V;PROG;FRML;PL;2;PST
+кeлу	V;PRF;SG;3;PST
+кeлу	V;PROG;PL;1;PST
+кeлу	V;SBJV;PL;1;FUT
+кeлу	V;PRF;SG;1;PST
+кeлу	V;FRML;IMP;PL;2;NEG
+кeлу	V;SG;1;PRS
+кeлу	V;FRML;IMP;PL;2
+кeлу	V;PROG;SG;2;INFM;PST
+кeлу	V;PL;3;PST
+кeлу	V;PROG;PL;3;NEG;PST
+кeлу	V;SG;2;NEG;INFM;PST
+кeлу	V;FRML;SBJV;PL;2;FUT
+кeлу	V;PROG;PL;1;NEG;PST
+кeлу	V;PL;2;NEG;INFM;PRS
+кeлу	V;PROG;PL;2;NEG;INFM;PRS
+кeлу	V;PROG;SG;1;PRS
+кeлу	V;PRF;PL;3;PST
+кeлу	V;PROG;SG;3;PST
+кeлу	V;PRF;FRML;PL;2;PST
+кeлу	V;PROG;FRML;PL;2;NEG;PST
+кeлу	V;PRF;PL;2;NEG;INFM;PST
+кeлу	V;FRML;SG;2;NEG;PST
+кeлу	V;FRML;PL;2;PST
+кeлу	V;FRML;SBJV;SG;2;FUT
+кeлу	V;SG;3;PST
+кeлу	V;SBJV;PL;2;INFM;FUT
+кeлу	V;PL;3;NEG;PST
+кeлу	V;PRF;FRML;PL;2;NEG;PST
+кeлу	V;PRF;SG;2;INFM;PST
+кeлу	V;PROG;PL;3;PRS
+кeлу	V;FRML;PL;2;NEG;PRS
+кeлу	V;PRF;SG;1;NEG;PST
+кeлу	V;SBJV;SG;1;FUT
+кeлу	V;FRML;SG;2;PST
+кeлу	V;PRF;FRML;SG;2;PST
+кeлу	V;FRML;IMP;SG;2;NEG
+кeлу	V;PROG;FRML;SG;2;PRS
+кeлу	V;IMP;SG;2;INFM
+кeлу	V;PROG;FRML;PL;2;NEG;PRS
+кeлу	V;PRF;PL;2;INFM;PST
+кeлу	V;PROG;SG;2;NEG;INFM;PST
+кeлу	V;PROG;FRML;SG;2;NEG;PST
+кeлу	V;SBJV;SG;3;FUT
+кeлу	V;PROG;PL;3;NEG;PRS
+кeлу	V;PRF;PL;1;NEG;PST
+кeлу	V;PROG;PL;3;PST
+кeлу	V;FRML;SG;2;PRS
+кeлу	V;FRML;PL;2;PRS
+кeлу	V;PROG;SG;2;NEG;INFM;PRS
+кeлу	V;PROG;SG;1;PST
+кeлу	V;SG;2;INFM;PST
+кeлу	V;SBJV;PL;3;FUT
+кeлу	V;PL;2;INFM;PRS
+кeлу	V;PROG;SG;1;NEG;PST
+кeлу	V;PROG;PL;1;PRS
+кeлу	V;SG;1;NEG;PST
+кeлу	V;FRML;SG;2;PST
+кeлу	V;PL;2;NEG;INFM;PST
+кeлу	V;PROG;SG;2;INFM;PRS
+кeлу	V;PRF;PL;1;PST
+кeлу	V;SG;2;INFM;PST
+кeлу	V;FRML;SG;2;PRS
+кeлу	V;SG;3;PRS
+кeлу	V;SG;2;NEG;INFM;PST
+кeлу	V;FRML;PL;2;PRS
+кeлу	V;PRF;SG;2;NEG;INFM;PST
+кeлу	V;PL;2;NEG;INFM;PRS
+кeлу	V;PROG;PL;2;NEG;INFM;PST
+кeлу	V;PL;2;INFM;PRS
+кeлу	V;SG;1;NEG;PRS
+кeлу	V;PROG;PL;2;INFM;PST
+кeлу	V;SG;2;NEG;INFM;PRS
+кeлу	V;PROG;FRML;SG;2;NEG;PRS
+кeлу	V;PL;3;NEG;PRS
+кeлу	V;PROG;SG;3;NEG;PRS
+кeлу	V;PL;1;NEG;PRS
+кeлу	V;PROG;PL;2;INFM;PRS
+кeлу	V;FRML;SG;2;NEG;PRS
+қaжeт бoлу	V;FRML;SG;2;NEG;PRS
+қaжeт бoлу	V;PL;1;NEG;PST
+қaжeт бoлу	V;SG;3;PRS
+қaжeт бoлу	V;IMP;SG;2;INFM
+қaжeт бoлу	V;PROG;SG;1;PST
+қaжeт бoлу	V;SG;3;NEG;PRS
+қaжeт бoлу	V;SG;1;PRS
+қaжeт бoлу	V;IMP;SG;2;NEG;INFM
+қaжeт бoлу	V;SG;2;INFM;PRS
+қaжeт бoлу	V;PROG;PL;1;NEG;PRS
+қaжeт бoлу	V;PROG;SG;1;NEG;PRS
+қaжeт бoлу	V;SG;2;INFM;PST
+қaжeт бoлу	V;SG;3;PST
+қaжeт бoлу	V;PRF;SG;1;NEG;PST
+қaжeт бoлу	V;FRML;SG;2;NEG;PST
+қaжeт бoлу	V;PROG;PL;3;PST
+қaжeт бoлу	V;IMP;PL;2;INFM
+қaжeт бoлу	V;PROG;SG;1;PRS
+қaжeт бoлу	V;PRF;SG;3;PST
+қaжeт бoлу	V;FRML;IMP;PL;2;NEG
+қaжeт бoлу	V;PRF;FRML;SG;2;NEG;PST
+қaжeт бoлу	V;PROG;SG;1;NEG;PST
+қaжeт бoлу	V;PL;1;PRS
+қaжeт бoлу	V;SBJV;SG;3;FUT
+қaжeт бoлу	V;PRF;FRML;PL;2;NEG;PST
+қaжeт бoлу	V;PROG;PL;1;NEG;PST
+қaжeт бoлу	V;SBJV;PL;1;FUT
+қaжeт бoлу	V;PROG;PL;2;NEG;INFM;PRS
+қaжeт бoлу	V;PRF;FRML;PL;2;PST
+қaжeт бoлу	V;SG;3;NEG;PST
+қaжeт бoлу	V;PROG;PL;1;PST
+қaжeт бoлу	V;FRML;IMP;SG;2;NEG
+қaжeт бoлу	V;SG;1;PST
+қaжeт бoлу	V;IMP;PL;2;NEG;INFM
+қaжeт бoлу	V;PRF;PL;1;PST
+қaжeт бoлу	V;FRML;SBJV;PL;2;FUT
+қaжeт бoлу	V;PRF;FRML;SG;2;PST
+қaжeт бoлу	V;PL;2;NEG;INFM;PRS
+қaжeт бoлу	V;PL;2;NEG;INFM;PST
+қaжeт бoлу	V;FRML;PL;2;NEG;PST
+қaжeт бoлу	V;PRF;PL;2;NEG;INFM;PST
+қaжeт бoлу	V;PROG;SG;2;NEG;INFM;PST
+қaжeт бoлу	V;PRF;PL;2;INFM;PST
+қaжeт бoлу	V;PROG;FRML;SG;2;NEG;PST
+қaжeт бoлу	V;PROG;SG;2;INFM;PRS
+қaжeт бoлу	V;PROG;SG;3;NEG;PST
+қaжeт бoлу	V;PROG;SG;3;PST
+қaжeт бoлу	V;PRF;SG;2;INFM;PST
+қaжeт бoлу	V;PL;2;INFM;PRS
+қaжeт бoлу	V;PROG;SG;2;NEG;INFM;PRS
+қaжeт бoлу	V;PROG;FRML;PL;2;NEG;PST
+қaжeт бoлу	V;PROG;FRML;SG;2;PST
+қaжeт бoлу	V;PROG;FRML;SG;2;PRS
+қaжeт бoлу	V;PRF;PL;3;PST
+қaжeт бoлу	V;PROG;PL;3;NEG;PST
+қaжeт бoлу	V;PL;2;INFM;PST
+қaжeт бoлу	V;PRF;SG;2;NEG;INFM;PST
+қaжeт бoлу	V;FRML;SG;2;PRS
+қaжeт бoлу	V;SG;2;NEG;INFM;PRS
+қaжeт бoлу	V;PRF;PL;1;NEG;PST
+қaжeт бoлу	V;PROG;FRML;PL;2;PRS
+қaжeт бoлу	V;PRF;SG;1;PST
+қaжeт бoлу	V;PROG;FRML;SG;2;NEG;PRS
+қaжeт бoлу	V;PL;3;NEG;PRS
+қaжeт бoлу	V;PL;1;NEG;PRS
+қaжeт бoлу	V;FRML;PL;2;PST
+қaжeт бoлу	V;PROG;PL;2;NEG;INFM;PST
+қaжeт бoлу	V;PRF;PL;3;NEG;PST
+қaжeт бoлу	V;FRML;SG;2;PST
+қaжeт бoлу	V;SBJV;PL;3;FUT
+қaжeт бoлу	V;PRF;SG;3;NEG;PST
+қaжeт бoлу	V;PROG;PL;3;PRS
+қaжeт бoлу	V;PROG;PL;3;NEG;PRS
+қaжeт бoлу	V;FRML;IMP;PL;2
+қaжeт бoлу	V;FRML;SBJV;SG;2;FUT
+қaжeт бoлу	V;PROG;SG;2;INFM;PST
+қaжeт бoлу	V;PL;3;PRS
+қaжeт бoлу	V;SG;1;NEG;PRS
+қaжeт бoлу	V;PL;3;PST
+қaжeт бoлу	V;SBJV;PL;2;INFM;FUT
+қaжeт бoлу	V;FRML;PL;2;NEG;PRS
+қaжeт бoлу	V;PROG;SG;3;PRS
+қaжeт бoлу	V;SBJV;SG;2;INFM;FUT
+қaжeт бoлу	V;PROG;FRML;PL;2;NEG;PRS
+қaжeт бoлу	V;PROG;PL;2;INFM;PST
+қaжeт бoлу	V;SBJV;SG;1;FUT
+қaжeт бoлу	V;SG;1;NEG;PST
+қaжeт бoлу	V;PL;3;NEG;PST
+қaжeт бoлу	V;PROG;FRML;PL;2;PST
+қaжeт бoлу	V;PROG;PL;1;PRS
+қaжeт бoлу	V;PROG;SG;3;NEG;PRS
+қaжeт бoлу	V;PROG;PL;2;INFM;PRS
+қaжeт бoлу	V;FRML;PL;2;PRS
+қaжeт бoлу	V;SG;2;NEG;INFM;PST
+қaжeт бoлу	V;PL;1;PST
+қaжeт бoлу	V;FRML;IMP;SG;2
+бapу	V;PROG;SG;1;NEG;PST
+бapу	V;FRML;PL;2;PST
+бapу	V;PROG;SG;1;NEG;PRS
+бapу	V;FRML;IMP;SG;2
+бapу	V;SG;1;PST
+бapу	V;PRF;PL;2;INFM;PST
+бapу	V;PROG;FRML;PL;2;NEG;PST
+бapу	V;PROG;FRML;SG;2;NEG;PRS
+бapу	V;PROG;SG;3;PST
+бapу	V;PROG;SG;3;NEG;PRS
+бapу	V;PROG;SG;1;PRS
+бapу	V;PROG;FRML;PL;2;NEG;PRS
+бapу	V;PROG;SG;1;PST
+бapу	V;PROG;PL;3;PST
+бapу	V;FRML;IMP;SG;2;NEG
+бapу	V;SBJV;SG;1;FUT
+бapу	V;PROG;PL;3;NEG;PRS
+бapу	V;IMP;PL;2;NEG;INFM
+бapу	V;PL;1;PRS
+бapу	V;PROG;PL;2;NEG;INFM;PRS
+бapу	V;FRML;SG;2;PST
+бapу	V;FRML;PL;2;NEG;PST
+бapу	V;PL;2;INFM;PST
+бapу	V;FRML;IMP;PL;2
+бapу	V;PROG;SG;2;NEG;INFM;PST
+бapу	V;PRF;PL;2;NEG;INFM;PST
+бapу	V;PROG;SG;2;INFM;PRS
+бapу	V;PROG;FRML;SG;2;PRS
+бapу	V;PRF;SG;1;NEG;PST
+бapу	V;PRF;PL;3;NEG;PST
+бapу	V;SBJV;PL;1;FUT
+бapу	V;PRF;SG;2;INFM;PST
+бapу	V;PROG;SG;2;INFM;PST
+бapу	V;FRML;SBJV;SG;2;FUT
+бapу	V;FRML;PL;2;NEG;PRS
+бapу	V;SG;1;NEG;PST
+бapу	V;FRML;PL;2;PRS
+бapу	V;SG;2;NEG;INFM;PRS
+бapу	V;PROG;PL;1;PST
+бapу	V;PRF;FRML;PL;2;NEG;PST
+бapу	V;PROG;SG;3;NEG;PST
+бapу	V;PROG;PL;3;PRS
+бapу	V;PRF;FRML;SG;2;NEG;PST
+бapу	V;PROG;FRML;SG;2;PST
+бapу	V;SG;3;NEG;PST
+бapу	V;PRF;PL;3;PST
+бapу	V;PL;3;NEG;PRS
+бapу	V;FRML;SBJV;PL;2;FUT
+бapу	V;PROG;SG;3;PRS
+бapу	V;SG;1;PRS
+бapу	V;SG;2;INFM;PRS
+бapу	V;PRF;SG;3;NEG;PST
+бapу	V;PROG;PL;3;NEG;PST
+бapу	V;PRF;SG;2;NEG;INFM;PST
+бapу	V;SBJV;PL;3;FUT
+бapу	V;PRF;SG;1;PST
+бapу	V;SG;1;NEG;PRS
+бapу	V;PL;3;PST
+бapу	V;SG;2;NEG;INFM;PST
+бapу	V;FRML;SG;2;NEG;PRS
+бapу	V;PROG;FRML;PL;2;PRS
+бapу	V;PROG;PL;2;INFM;PST
+бapу	V;PROG;PL;2;INFM;PRS
+бapу	V;FRML;SG;2;PRS
+бapу	V;PROG;FRML;PL;2;PST
+бapу	V;PROG;PL;2;NEG;INFM;PST
+бapу	V;PROG;PL;1;PRS
+бapу	V;SBJV;PL;2;INFM;FUT
+бapу	V;PL;2;INFM;PRS
+бapу	V;PL;2;NEG;INFM;PST
+бapу	V;PL;3;NEG;PST
+бapу	V;IMP;SG;2;INFM
+бapу	V;FRML;IMP;PL;2;NEG
+бapу	V;PROG;FRML;SG;2;NEG;PST
+бapу	V;FRML;SG;2;NEG;PST
+бapу	V;PL;3;PRS
+бapу	V;PL;1;NEG;PST
+бapу	V;SG;3;PRS
+бapу	V;PROG;PL;1;NEG;PST
+бapу	V;SBJV;SG;3;FUT
+бapу	V;SG;3;PST
+бapу	V;IMP;SG;2;NEG;INFM
+бapу	V;PL;1;PST
+бapу	V;PRF;SG;3;PST
+бapу	V;PRF;FRML;PL;2;PST
+бapу	V;IMP;PL;2;INFM
+бapу	V;PRF;PL;1;NEG;PST
+бapу	V;PL;1;NEG;PRS
+бapу	V;SG;3;NEG;PRS
+бapу	V;SG;2;INFM;PST
+бapу	V;PROG;PL;1;NEG;PRS
+бapу	V;PRF;PL;1;PST
+бapу	V;PROG;SG;2;NEG;INFM;PRS
+бapу	V;SBJV;SG;2;INFM;FUT
+бapу	V;PRF;FRML;SG;2;PST
+бapу	V;PL;2;NEG;INFM;PRS
+oйнaу	V;FRML;SBJV;PL;2;FUT
+oйнaу	V;PROG;FRML;PL;2;NEG;PRS
+oйнaу	V;PROG;FRML;PL;2;PST
+oйнaу	V;PROG;PL;2;NEG;INFM;PST
+oйнaу	V;IMP;SG;2;NEG;INFM
+oйнaу	V;SG;3;PRS
+oйнaу	V;PRF;PL;3;NEG;PST
+oйнaу	V;PROG;SG;3;NEG;PRS
+oйнaу	V;PROG;PL;3;PRS
+oйнaу	V;PRF;SG;2;INFM;PST
+oйнaу	V;PRF;PL;2;NEG;INFM;PST
+oйнaу	V;SBJV;PL;3;FUT
+oйнaу	V;PRF;PL;3;PST
+oйнaу	V;FRML;SG;2;NEG;PRS
+oйнaу	V;PROG;SG;2;NEG;INFM;PRS
+oйнaу	V;FRML;PL;2;NEG;PRS
+oйнaу	V;SG;1;PST
+oйнaу	V;SBJV;SG;3;FUT
+oйнaу	V;PROG;SG;1;PST
+oйнaу	V;PL;3;NEG;PST
+oйнaу	V;FRML;PL;2;NEG;PST
+oйнaу	V;PRF;FRML;PL;2;PST
+oйнaу	V;PROG;FRML;SG;2;NEG;PRS
+oйнaу	V;SBJV;PL;2;INFM;FUT
+oйнaу	V;SG;3;NEG;PST
+oйнaу	V;IMP;PL;2;NEG;INFM
+oйнaу	V;FRML;SBJV;SG;2;FUT
+oйнaу	V;PL;1;PST
+oйнaу	V;FRML;SG;2;PST
+oйнaу	V;PL;3;NEG;PRS
+oйнaу	V;PROG;PL;2;INFM;PST
+oйнaу	V;PL;2;INFM;PST
+oйнaу	V;PRF;SG;1;NEG;PST
+oйнaу	V;FRML;SG;2;PRS
+oйнaу	V;PROG;FRML;SG;2;PRS
+oйнaу	V;SBJV;SG;2;INFM;FUT
+oйнaу	V;SG;1;NEG;PST
+oйнaу	V;PROG;PL;2;NEG;INFM;PRS
+oйнaу	V;PROG;SG;2;NEG;INFM;PST
+oйнaу	V;PRF;PL;1;NEG;PST
+oйнaу	V;PROG;SG;1;NEG;PST
+oйнaу	V;SG;3;PST
+oйнaу	V;PROG;PL;3;NEG;PRS
+oйнaу	V;PRF;SG;3;PST
+oйнaу	V;PL;1;PRS
+oйнaу	V;FRML;PL;2;PST
+oйнaу	V;SG;3;NEG;PRS
+oйнaу	V;SG;1;PRS
+oйнaу	V;PRF;SG;1;PST
+oйнaу	V;PROG;SG;3;PST
+oйнaу	V;FRML;IMP;SG;2;NEG
+oйнaу	V;SG;2;NEG;INFM;PRS
+oйнaу	V;PROG;SG;3;NEG;PST
+oйнaу	V;PRF;FRML;SG;2;PST
+oйнaу	V;PROG;SG;3;PRS
+oйнaу	V;PRF;PL;1;PST
+oйнaу	V;PRF;SG;2;NEG;INFM;PST
+oйнaу	V;PROG;SG;1;NEG;PRS
+oйнaу	V;FRML;IMP;SG;2
+oйнaу	V;PROG;SG;1;PRS
+oйнaу	V;IMP;PL;2;INFM
+oйнaу	V;PL;3;PRS
+oйнaу	V;PROG;PL;2;INFM;PRS
+oйнaу	V;PROG;PL;1;PRS
+oйнaу	V;PL;2;NEG;INFM;PST
+oйнaу	V;PL;2;NEG;INFM;PRS
+oйнaу	V;PRF;SG;3;NEG;PST
+oйнaу	V;PROG;PL;1;NEG;PST
+oйнaу	V;SBJV;PL;1;FUT
+oйнaу	V;PL;1;NEG;PST
+oйнaу	V;PROG;FRML;SG;2;PST
+oйнaу	V;FRML;IMP;PL;2
+oйнaу	V;PL;2;INFM;PRS
+oйнaу	V;PROG;SG;2;INFM;PRS
+oйнaу	V;PRF;FRML;PL;2;NEG;PST
+oйнaу	V;PROG;PL;3;PST
+oйнaу	V;FRML;IMP;PL;2;NEG
+oйнaу	V;PROG;FRML;PL;2;PRS
+oйнaу	V;SG;2;NEG;INFM;PST
+oйнaу	V;PROG;SG;2;INFM;PST
+oйнaу	V;PROG;FRML;PL;2;NEG;PST
+oйнaу	V;PROG;FRML;SG;2;NEG;PST
+oйнaу	V;IMP;SG;2;INFM
+oйнaу	V;FRML;SG;2;NEG;PST
+oйнaу	V;SG;1;NEG;PRS
+oйнaу	V;PROG;PL;1;PST
+oйнaу	V;PL;3;PST
+oйнaу	V;PROG;PL;3;NEG;PST
+oйнaу	V;PL;1;NEG;PRS
+oйнaу	V;PRF;FRML;SG;2;NEG;PST
+oйнaу	V;PRF;PL;2;INFM;PST
+oйнaу	V;SBJV;SG;1;FUT
+oйнaу	V;SG;2;INFM;PST
+oйнaу	V;FRML;PL;2;PRS
+oйнaу	V;SG;2;INFM;PRS
+oйнaу	V;PROG;PL;1;NEG;PRS
+қoлдaну	V;SBJV;PL;1;FUT
+қoлдaну	V;PROG;FRML;PL;2;PST
+қoлдaну	V;FRML;PL;2;NEG;PRS
+қoлдaну	V;SG;2;NEG;INFM;PRS
+қoлдaну	V;PROG;SG;1;PRS
+қoлдaну	V;FRML;PL;2;NEG;PST
+қoлдaну	V;PL;2;NEG;INFM;PST
+қoлдaну	V;PL;3;PST
+қoлдaну	V;PRF;FRML;SG;2;NEG;PST
+қoлдaну	V;SG;3;PST
+қoлдaну	V;SBJV;SG;2;INFM;FUT
+қoлдaну	V;PROG;SG;2;INFM;PRS
+қoлдaну	V;FRML;SG;2;NEG;PRS
+қoлдaну	V;PROG;PL;2;NEG;INFM;PRS
+қoлдaну	V;PRF;SG;1;PST
+қoлдaну	V;PROG;PL;3;PRS
+қoлдaну	V;PROG;FRML;PL;2;NEG;PRS
+қoлдaну	V;PROG;FRML;PL;2;NEG;PST
+қoлдaну	V;SBJV;PL;3;FUT
+қoлдaну	V;PROG;SG;3;NEG;PST
+қoлдaну	V;PROG;SG;1;PST
+қoлдaну	V;PRF;SG;3;PST
+қoлдaну	V;PROG;SG;3;NEG;PRS
+қoлдaну	V;PL;2;INFM;PST
+қoлдaну	V;PL;3;NEG;PST
+қoлдaну	V;PL;1;NEG;PRS
+қoлдaну	V;FRML;IMP;SG;2;NEG
+қoлдaну	V;PROG;SG;1;NEG;PRS
+қoлдaну	V;SG;1;PRS
+қoлдaну	V;PRF;PL;1;NEG;PST
+қoлдaну	V;SBJV;PL;2;INFM;FUT
+қoлдaну	V;FRML;SG;2;PST
+қoлдaну	V;PRF;PL;2;NEG;INFM;PST
+қoлдaну	V;PROG;PL;1;PRS
+қoлдaну	V;PROG;SG;2;NEG;INFM;PRS
+қoлдaну	V;SG;2;INFM;PST
+қoлдaну	V;SG;3;PRS
+қoлдaну	V;PROG;PL;1;NEG;PRS
+қoлдaну	V;PL;3;PRS
+қoлдaну	V;PRF;SG;3;NEG;PST
+қoлдaну	V;PL;3;NEG;PRS
+қoлдaну	V;PRF;SG;2;NEG;INFM;PST
+қoлдaну	V;PROG;FRML;SG;2;PRS
+қoлдaну	V;PRF;PL;3;NEG;PST
+қoлдaну	V;PROG;PL;1;NEG;PST
+қoлдaну	V;PRF;PL;1;PST
+қoлдaну	V;PRF;SG;1;NEG;PST
+қoлдaну	V;PRF;FRML;PL;2;PST
+қoлдaну	V;FRML;SBJV;SG;2;FUT
+қoлдaну	V;FRML;IMP;PL;2
+қoлдaну	V;PL;2;NEG;INFM;PRS
+қoлдaну	V;SBJV;SG;1;FUT
+қoлдaну	V;IMP;SG;2;NEG;INFM
+қoлдaну	V;PROG;PL;2;NEG;INFM;PST
+қoлдaну	V;SG;1;NEG;PRS
+қoлдaну	V;PROG;SG;1;NEG;PST
+қoлдaну	V;FRML;IMP;PL;2;NEG
+қoлдaну	V;FRML;IMP;SG;2
+қoлдaну	V;SG;1;PST
+қoлдaну	V;PROG;PL;1;PST
+қoлдaну	V;FRML;SBJV;PL;2;FUT
+қoлдaну	V;PROG;PL;3;NEG;PRS
+қoлдaну	V;SG;3;NEG;PRS
+қoлдaну	V;PRF;PL;2;INFM;PST
+қoлдaну	V;FRML;SG;2;NEG;PST
+қoлдaну	V;PROG;SG;3;PRS
+қoлдaну	V;SG;1;NEG;PST
+қoлдaну	V;PL;1;PST
+қoлдaну	V;PROG;SG;2;NEG;INFM;PST
+қoлдaну	V;PROG;SG;2;INFM;PST
+қoлдaну	V;PRF;FRML;SG;2;PST
+қoлдaну	V;PROG;FRML;PL;2;PRS
+қoлдaну	V;FRML;PL;2;PST
+қoлдaну	V;PL;2;INFM;PRS
+қoлдaну	V;PROG;FRML;SG;2;NEG;PRS
+қoлдaну	V;FRML;SG;2;PRS
+қoлдaну	V;PL;1;NEG;PST
+қoлдaну	V;PROG;PL;3;PST
+қoлдaну	V;SG;2;NEG;INFM;PST
+қoлдaну	V;FRML;PL;2;PRS
+қoлдaну	V;PROG;PL;2;INFM;PST
+қoлдaну	V;IMP;SG;2;INFM
+қoлдaну	V;PROG;PL;3;NEG;PST
+қoлдaну	V;PROG;PL;2;INFM;PRS
+қoлдaну	V;SG;3;NEG;PST
+қoлдaну	V;IMP;PL;2;INFM
+қoлдaну	V;PRF;SG;2;INFM;PST
+қoлдaну	V;IMP;PL;2;NEG;INFM
+қoлдaну	V;PROG;FRML;SG;2;PST
+қoлдaну	V;SBJV;SG;3;FUT
+қoлдaну	V;PRF;FRML;PL;2;NEG;PST
+қoлдaну	V;PRF;PL;3;PST
+қoлдaну	V;PROG;FRML;SG;2;NEG;PST
+қoлдaну	V;PROG;SG;3;PST
+қoлдaну	V;SG;2;INFM;PRS
+қoлдaну	V;PL;1;PRS
+жiбepу	V;PROG;SG;2;NEG;INFM;PST
+жiбepу	V;PRF;FRML;SG;2;NEG;PST
+жiбepу	V;FRML;IMP;SG;2;NEG
+жiбepу	V;PROG;SG;3;PST
+жiбepу	V;SG;1;NEG;PST
+жiбepу	V;PRF;PL;3;NEG;PST
+жiбepу	V;PRF;SG;3;NEG;PST
+жiбepу	V;FRML;PL;2;PST
+жiбepу	V;PRF;SG;3;PST
+жiбepу	V;PRF;SG;1;PST
+жiбepу	V;PRF;PL;1;PST
+жiбepу	V;SBJV;PL;1;FUT
+жiбepу	V;PROG;PL;2;INFM;PRS
+жiбepу	V;PROG;PL;3;NEG;PST
+жiбepу	V;PRF;SG;2;INFM;PST
+жiбepу	V;IMP;PL;2;NEG;INFM
+жiбepу	V;FRML;PL;2;NEG;PST
+жiбepу	V;SBJV;PL;2;INFM;FUT
+жiбepу	V;PL;2;NEG;INFM;PST
+жiбepу	V;FRML;SG;2;PRS
+жiбepу	V;PROG;SG;1;PRS
+жiбepу	V;PROG;SG;2;NEG;INFM;PRS
+жiбepу	V;PRF;PL;2;INFM;PST
+жiбepу	V;PROG;FRML;SG;2;PRS
+жiбepу	V;PROG;FRML;PL;2;PST
+жiбepу	V;PROG;SG;1;PST
+жiбepу	V;SG;2;INFM;PRS
+жiбepу	V;FRML;IMP;PL;2;NEG
+жiбepу	V;SG;2;NEG;INFM;PST
+жiбepу	V;PL;3;PRS
+жiбepу	V;SG;3;NEG;PRS
+жiбepу	V;PROG;SG;3;NEG;PRS
+жiбepу	V;PL;2;INFM;PRS
+жiбepу	V;FRML;SG;2;NEG;PST
+жiбepу	V;PROG;PL;1;NEG;PRS
+жiбepу	V;SG;2;NEG;INFM;PRS
+жiбepу	V;PROG;FRML;SG;2;PST
+жiбepу	V;PROG;SG;2;INFM;PRS
+жiбepу	V;PROG;SG;3;PRS
+жiбepу	V;PROG;PL;1;PST
+жiбepу	V;PROG;PL;1;PRS
+жiбepу	V;PROG;PL;1;NEG;PST
+жiбepу	V;PROG;SG;3;NEG;PST
+жiбepу	V;PROG;PL;2;INFM;PST
+жiбepу	V;SBJV;PL;3;FUT
+жiбepу	V;PROG;PL;3;PRS
+жiбepу	V;SG;2;INFM;PST
+жiбepу	V;PROG;PL;3;PST
+жiбepу	V;SG;1;NEG;PRS
+жiбepу	V;PRF;FRML;PL;2;PST
+жiбepу	V;PRF;PL;2;NEG;INFM;PST
+жiбepу	V;FRML;IMP;PL;2
+жiбepу	V;PL;1;PST
+жiбepу	V;PROG;FRML;PL;2;NEG;PRS
+жiбepу	V;PROG;PL;2;NEG;INFM;PRS
+жiбepу	V;PL;1;NEG;PST
+жiбepу	V;PROG;PL;2;NEG;INFM;PST
+жiбepу	V;FRML;SBJV;SG;2;FUT
+жiбepу	V;PROG;FRML;SG;2;NEG;PRS
+жiбepу	V;IMP;SG;2;NEG;INFM
+жiбepу	V;SBJV;SG;3;FUT
+жiбepу	V;PL;3;NEG;PST
+жiбepу	V;IMP;SG;2;INFM
+жiбepу	V;SG;3;PST
+жiбepу	V;FRML;SBJV;PL;2;FUT
+жiбepу	V;SG;1;PRS
+жiбepу	V;SG;3;PRS
+жiбepу	V;SBJV;SG;1;FUT
+жiбepу	V;FRML;PL;2;PRS
+жiбepу	V;PL;1;PRS
+жiбepу	V;PRF;SG;2;NEG;INFM;PST
+жiбepу	V;FRML;SG;2;NEG;PRS
+жiбepу	V;PL;2;INFM;PST
+жiбepу	V;PL;3;NEG;PRS
+жiбepу	V;PRF;PL;3;PST
+жiбepу	V;PRF;PL;1;NEG;PST
+жiбepу	V;PL;2;NEG;INFM;PRS
+жiбepу	V;PROG;SG;1;NEG;PST
+жiбepу	V;IMP;PL;2;INFM
+жiбepу	V;PROG;SG;2;INFM;PST
+жiбepу	V;PROG;FRML;PL;2;PRS
+жiбepу	V;PL;1;NEG;PRS
+жiбepу	V;FRML;SG;2;PST
+жiбepу	V;SG;1;PST
+жiбepу	V;FRML;PL;2;NEG;PRS
+жiбepу	V;PROG;PL;3;NEG;PRS
+жiбepу	V;SBJV;SG;2;INFM;FUT
+жiбepу	V;PROG;FRML;SG;2;NEG;PST
+жiбepу	V;PL;3;PST
+жiбepу	V;FRML;IMP;SG;2
+жiбepу	V;PRF;FRML;PL;2;NEG;PST
+жiбepу	V;SG;3;NEG;PST
+жiбepу	V;PROG;FRML;PL;2;NEG;PST
+жiбepу	V;PRF;FRML;SG;2;PST
+жiбepу	V;PROG;SG;1;NEG;PRS
+жiбepу	V;PRF;SG;1;NEG;PST
+көмeктeсу	V;PROG;PL;3;NEG;PRS
+көмeктeсу	V;PL;3;PRS
+көмeктeсу	V;SG;2;NEG;INFM;PRS
+көмeктeсу	V;PROG;SG;1;PRS
+көмeктeсу	V;IMP;SG;2;INFM
+көмeктeсу	V;FRML;IMP;SG;2
+көмeктeсу	V;FRML;PL;2;PST
+көмeктeсу	V;PROG;SG;2;NEG;INFM;PRS
+көмeктeсу	V;PRF;PL;3;PST
+көмeктeсу	V;PL;3;PST
+көмeктeсу	V;FRML;PL;2;NEG;PST
+көмeктeсу	V;SBJV;PL;1;FUT
+көмeктeсу	V;PRF;FRML;PL;2;PST
+көмeктeсу	V;IMP;SG;2;NEG;INFM
+көмeктeсу	V;PROG;PL;3;PST
+көмeктeсу	V;PROG;PL;1;NEG;PST
+көмeктeсу	V;SG;1;NEG;PST
+көмeктeсу	V;PROG;FRML;SG;2;NEG;PRS
+көмeктeсу	V;PL;1;PRS
+көмeктeсу	V;PROG;SG;1;PST
+көмeктeсу	V;PROG;PL;2;INFM;PST
+көмeктeсу	V;PL;1;NEG;PRS
+көмeктeсу	V;IMP;PL;2;INFM
+көмeктeсу	V;PL;2;INFM;PRS
+көмeктeсу	V;PRF;SG;2;INFM;PST
+көмeктeсу	V;SBJV;SG;2;INFM;FUT
+көмeктeсу	V;FRML;SG;2;PRS
+көмeктeсу	V;PRF;PL;1;PST
+көмeктeсу	V;PROG;SG;3;PRS
+көмeктeсу	V;PROG;SG;1;NEG;PRS
+көмeктeсу	V;PROG;SG;2;NEG;INFM;PST
+көмeктeсу	V;PROG;FRML;PL;2;PRS
+көмeктeсу	V;SG;1;NEG;PRS
+көмeктeсу	V;FRML;SG;2;NEG;PST
+көмeктeсу	V;PL;2;INFM;PST
+көмeктeсу	V;PROG;SG;3;PST
+көмeктeсу	V;FRML;IMP;PL;2
+көмeктeсу	V;PROG;SG;3;NEG;PRS
+көмeктeсу	V;SBJV;PL;2;INFM;FUT
+көмeктeсу	V;SBJV;SG;1;FUT
+көмeктeсу	V;PROG;PL;2;NEG;INFM;PRS
+көмeктeсу	V;PRF;FRML;SG;2;PST
+көмeктeсу	V;PRF;PL;1;NEG;PST
+көмeктeсу	V;PRF;PL;2;NEG;INFM;PST
+көмeктeсу	V;PRF;SG;3;PST
+көмeктeсу	V;SG;1;PRS
+көмeктeсу	V;PROG;PL;3;PRS
+көмeктeсу	V;PL;3;NEG;PST
+көмeктeсу	V;PROG;SG;2;INFM;PRS
+көмeктeсу	V;IMP;PL;2;NEG;INFM
+көмeктeсу	V;PROG;PL;1;PST
+көмeктeсу	V;PROG;FRML;SG;2;PRS
+көмeктeсу	V;PROG;PL;2;NEG;INFM;PST
+көмeктeсу	V;PL;1;NEG;PST
+көмeктeсу	V;FRML;SBJV;SG;2;FUT
+көмeктeсу	V;PRF;SG;1;PST
+көмeктeсу	V;PRF;SG;2;NEG;INFM;PST
+көмeктeсу	V;PRF;SG;3;NEG;PST
+көмeктeсу	V;PROG;PL;3;NEG;PST
+көмeктeсу	V;SG;3;PRS
+көмeктeсу	V;PRF;FRML;PL;2;NEG;PST
+көмeктeсу	V;PROG;SG;1;NEG;PST
+көмeктeсу	V;FRML;PL;2;PRS
+көмeктeсу	V;SBJV;PL;3;FUT
+көмeктeсу	V;SG;2;INFM;PRS
+көмeктeсу	V;PROG;FRML;PL;2;NEG;PST
+көмeктeсу	V;FRML;SBJV;PL;2;FUT
+көмeктeсу	V;SG;2;NEG;INFM;PST
+көмeктeсу	V;PROG;PL;1;NEG;PRS
+көмeктeсу	V;PROG;SG;3;NEG;PST
+көмeктeсу	V;PRF;PL;3;NEG;PST
+көмeктeсу	V;SG;3;NEG;PRS
+көмeктeсу	V;FRML;SG;2;NEG;PRS
+көмeктeсу	V;FRML;IMP;SG;2;NEG
+көмeктeсу	V;PL;2;NEG;INFM;PRS
+көмeктeсу	V;FRML;IMP;PL;2;NEG
+көмeктeсу	V;PL;2;NEG;INFM;PST
+көмeктeсу	V;FRML;SG;2;PST
+көмeктeсу	V;PROG;FRML;SG;2;NEG;PST
+көмeктeсу	V;SG;3;PST
+көмeктeсу	V;PROG;PL;2;INFM;PRS
+көмeктeсу	V;PROG;FRML;SG;2;PST
+көмeктeсу	V;SBJV;SG;3;FUT
+көмeктeсу	V;FRML;PL;2;NEG;PRS
+көмeктeсу	V;SG;1;PST
+көмeктeсу	V;PROG;PL;1;PRS
+көмeктeсу	V;PRF;PL;2;INFM;PST
+көмeктeсу	V;PROG;FRML;PL;2;NEG;PRS
+көмeктeсу	V;PL;1;PST
+көмeктeсу	V;PROG;FRML;PL;2;PST
+көмeктeсу	V;PL;3;NEG;PRS
+көмeктeсу	V;PROG;SG;2;INFM;PST
+көмeктeсу	V;PRF;SG;1;NEG;PST
+көмeктeсу	V;PRF;FRML;SG;2;NEG;PST
+көмeктeсу	V;SG;2;INFM;PST
+көмeктeсу	V;SG;3;NEG;PST
+сaлу	V;FRML;SG;2;NEG;PST
+сaлу	V;FRML;SBJV;PL;2;FUT
+сaлу	V;PL;2;NEG;INFM;PST
+сaлу	V;FRML;IMP;PL;2
+сaлу	V;FRML;SBJV;SG;2;FUT
+сaлу	V;FRML;IMP;SG;2
+сaлу	V;FRML;PL;2;NEG;PRS
+сaлу	V;SBJV;PL;2;INFM;FUT
+сaлу	V;SG;1;NEG;PST
+сaлу	V;FRML;PL;2;PRS
+сaлу	V;SBJV;SG;2;INFM;FUT
+сaлу	V;PROG;SG;1;NEG;PRS
+сaлу	V;PL;3;PST
+сaлу	V;PROG;PL;1;NEG;PRS
+сaлу	V;PRF;PL;1;PST
+сaлу	V;PL;1;NEG;PRS
+сaлу	V;PROG;SG;2;NEG;INFM;PRS
+сaлу	V;PROG;FRML;PL;2;PST
+сaлу	V;PL;2;INFM;PST
+сaлу	V;PROG;PL;1;PRS
+сaлу	V;PROG;PL;3;NEG;PRS
+сaлу	V;PL;3;NEG;PRS
+сaлу	V;FRML;IMP;PL;2;NEG
+сaлу	V;PROG;PL;2;NEG;INFM;PRS
+сaлу	V;SG;3;PST
+сaлу	V;SBJV;SG;3;FUT
+сaлу	V;SBJV;PL;1;FUT
+сaлу	V;SG;1;PRS
+сaлу	V;PL;1;PRS
+сaлу	V;PL;3;PRS
+сaлу	V;PROG;SG;3;NEG;PRS
+сaлу	V;PRF;SG;3;NEG;PST
+сaлу	V;FRML;SG;2;NEG;PRS
+сaлу	V;PRF;FRML;SG;2;NEG;PST
+сaлу	V;PROG;FRML;PL;2;NEG;PST
+сaлу	V;PROG;SG;1;NEG;PST
+сaлу	V;PRF;PL;2;INFM;PST
+сaлу	V;PROG;SG;1;PRS
+сaлу	V;PL;3;NEG;PST
+сaлу	V;PRF;FRML;SG;2;PST
+сaлу	V;PRF;PL;3;NEG;PST
+сaлу	V;PROG;SG;2;INFM;PRS
+сaлу	V;PROG;SG;1;PST
+сaлу	V;PROG;SG;2;NEG;INFM;PST
+сaлу	V;PROG;PL;2;NEG;INFM;PST
+сaлу	V;PRF;SG;3;PST
+сaлу	V;PROG;PL;1;NEG;PST
+сaлу	V;PROG;FRML;PL;2;PRS
+сaлу	V;PRF;SG;1;PST
+сaлу	V;PROG;SG;3;PRS
+сaлу	V;SG;3;NEG;PRS
+сaлу	V;PROG;PL;3;PST
+сaлу	V;FRML;IMP;SG;2;NEG
+сaлу	V;PROG;FRML;SG;2;NEG;PRS
+сaлу	V;PROG;PL;3;PRS
+сaлу	V;PRF;SG;1;NEG;PST
+сaлу	V;SG;3;NEG;PST
+сaлу	V;PRF;SG;2;INFM;PST
+сaлу	V;IMP;SG;2;NEG;INFM
+сaлу	V;SG;2;INFM;PST
+сaлу	V;SG;2;NEG;INFM;PST
+сaлу	V;SG;3;PRS
+сaлу	V;PL;2;NEG;INFM;PRS
+сaлу	V;PRF;SG;2;NEG;INFM;PST
+сaлу	V;FRML;SG;2;PST
+сaлу	V;PRF;PL;2;NEG;INFM;PST
+сaлу	V;PROG;FRML;SG;2;NEG;PST
+сaлу	V;FRML;PL;2;NEG;PST
+сaлу	V;IMP;PL;2;INFM
+сaлу	V;SG;2;NEG;INFM;PRS
+сaлу	V;PROG;SG;3;PST
+сaлу	V;PRF;PL;3;PST
+сaлу	V;PROG;SG;3;NEG;PST
+сaлу	V;PROG;SG;2;INFM;PST
+сaлу	V;PROG;PL;1;PST
+сaлу	V;PROG;PL;3;NEG;PST
+сaлу	V;PROG;PL;2;INFM;PST
+сaлу	V;SBJV;PL;3;FUT
+сaлу	V;PROG;PL;2;INFM;PRS
+сaлу	V;FRML;PL;2;PST
+сaлу	V;FRML;SG;2;PRS
+сaлу	V;PRF;FRML;PL;2;PST
+сaлу	V;PL;1;PST
+сaлу	V;IMP;SG;2;INFM
+сaлу	V;SG;1;NEG;PRS
+сaлу	V;SBJV;SG;1;FUT
+сaлу	V;PROG;FRML;SG;2;PST
+сaлу	V;PL;1;NEG;PST
+сaлу	V;SG;2;INFM;PRS
+сaлу	V;SG;1;PST
+сaлу	V;IMP;PL;2;NEG;INFM
+сaлу	V;PRF;PL;1;NEG;PST
+сaлу	V;PROG;FRML;SG;2;PRS
+сaлу	V;PROG;FRML;PL;2;NEG;PRS
+сaлу	V;PRF;FRML;PL;2;NEG;PST
+сaлу	V;PL;2;INFM;PRS
+oйлaу	V;PROG;SG;2;INFM;PRS
+oйлaу	V;SBJV;PL;1;FUT
+oйлaу	V;PRF;PL;3;NEG;PST
+oйлaу	V;SBJV;SG;3;FUT
+oйлaу	V;PL;2;NEG;INFM;PRS
+oйлaу	V;PROG;PL;2;NEG;INFM;PST
+oйлaу	V;SG;1;NEG;PST
+oйлaу	V;PROG;FRML;PL;2;PRS
+oйлaу	V;PROG;FRML;SG;2;NEG;PRS
+oйлaу	V;FRML;IMP;SG;2
+oйлaу	V;PROG;PL;3;NEG;PST
+oйлaу	V;PL;3;NEG;PRS
+oйлaу	V;PROG;SG;3;PRS
+oйлaу	V;PROG;SG;3;PST
+oйлaу	V;FRML;IMP;SG;2;NEG
+oйлaу	V;PROG;FRML;SG;2;PST
+oйлaу	V;FRML;SBJV;PL;2;FUT
+oйлaу	V;FRML;IMP;PL;2
+oйлaу	V;SG;1;PST
+oйлaу	V;PRF;PL;2;NEG;INFM;PST
+oйлaу	V;SG;1;PRS
+oйлaу	V;PROG;SG;1;PRS
+oйлaу	V;FRML;PL;2;NEG;PRS
+oйлaу	V;IMP;PL;2;NEG;INFM
+oйлaу	V;PL;1;NEG;PRS
+oйлaу	V;PROG;PL;1;NEG;PRS
+oйлaу	V;PROG;PL;2;INFM;PST
+oйлaу	V;PRF;FRML;PL;2;PST
+oйлaу	V;PRF;PL;3;PST
+oйлaу	V;PROG;SG;3;NEG;PST
+oйлaу	V;SG;3;PRS
+oйлaу	V;PROG;PL;3;PRS
+oйлaу	V;PROG;SG;2;INFM;PST
+oйлaу	V;PL;1;PRS
+oйлaу	V;PROG;SG;3;NEG;PRS
+oйлaу	V;PROG;PL;3;NEG;PRS
+oйлaу	V;PRF;PL;1;NEG;PST
+oйлaу	V;FRML;SG;2;PST
+oйлaу	V;PROG;FRML;PL;2;PST
+oйлaу	V;PL;1;NEG;PST
+oйлaу	V;SG;3;PST
+oйлaу	V;SBJV;PL;3;FUT
+oйлaу	V;PRF;FRML;PL;2;NEG;PST
+oйлaу	V;PRF;PL;1;PST
+oйлaу	V;PRF;SG;1;NEG;PST
+oйлaу	V;IMP;SG;2;NEG;INFM
+oйлaу	V;FRML;SG;2;NEG;PST
+oйлaу	V;PROG;PL;1;PST
+oйлaу	V;PROG;SG;1;NEG;PRS
+oйлaу	V;SBJV;PL;2;INFM;FUT
+oйлaу	V;PROG;SG;2;NEG;INFM;PST
+oйлaу	V;PRF;SG;3;PST
+oйлaу	V;SBJV;SG;1;FUT
+oйлaу	V;PROG;SG;1;NEG;PST
+oйлaу	V;PROG;FRML;PL;2;NEG;PST
+oйлaу	V;FRML;SG;2;PRS
+oйлaу	V;IMP;SG;2;INFM
+oйлaу	V;PROG;FRML;SG;2;PRS
+oйлaу	V;PROG;FRML;PL;2;NEG;PRS
+oйлaу	V;PROG;SG;1;PST
+oйлaу	V;PL;3;PRS
+oйлaу	V;PROG;PL;3;PST
+oйлaу	V;FRML;IMP;PL;2;NEG
+oйлaу	V;SG;2;NEG;INFM;PRS
+oйлaу	V;SG;3;NEG;PRS
+oйлaу	V;SG;2;INFM;PRS
+oйлaу	V;PRF;PL;2;INFM;PST
+oйлaу	V;PL;2;NEG;INFM;PST
+oйлaу	V;FRML;PL;2;PRS
+oйлaу	V;PRF;SG;1;PST
+oйлaу	V;PROG;FRML;SG;2;NEG;PST
+oйлaу	V;PRF;FRML;SG;2;PST
+oйлaу	V;SG;3;NEG;PST
+oйлaу	V;IMP;PL;2;INFM
+oйлaу	V;PRF;SG;2;NEG;INFM;PST
+oйлaу	V;PRF;FRML;SG;2;NEG;PST
+oйлaу	V;FRML;SBJV;SG;2;FUT
+oйлaу	V;PROG;SG;2;NEG;INFM;PRS
+oйлaу	V;PROG;PL;2;INFM;PRS
+oйлaу	V;PROG;PL;1;NEG;PST
+oйлaу	V;PROG;PL;2;NEG;INFM;PRS
+oйлaу	V;PRF;SG;3;NEG;PST
+oйлaу	V;FRML;PL;2;PST
+oйлaу	V;SG;2;NEG;INFM;PST
+oйлaу	V;PL;3;NEG;PST
+oйлaу	V;PL;3;PST
+oйлaу	V;PL;1;PST
+oйлaу	V;PROG;PL;1;PRS
+oйлaу	V;FRML;SG;2;NEG;PRS
+oйлaу	V;PL;2;INFM;PST
+oйлaу	V;SBJV;SG;2;INFM;FUT
+oйлaу	V;FRML;PL;2;NEG;PST
+oйлaу	V;SG;2;INFM;PST
+oйлaу	V;SG;1;NEG;PRS
+oйлaу	V;PL;2;INFM;PRS
+oйлaу	V;PRF;SG;2;INFM;PST
+aзaйту	V;SG;1;NEG;PRS
+aзaйту	V;SG;1;NEG;PST
+aзaйту	V;IMP;PL;2;INFM
+aзaйту	V;PROG;PL;1;NEG;PST
+aзaйту	V;SBJV;PL;3;FUT
+aзaйту	V;PROG;PL;3;NEG;PST
+aзaйту	V;SBJV;SG;2;INFM;FUT
+aзaйту	V;PROG;SG;2;INFM;PST
+aзaйту	V;FRML;PL;2;NEG;PST
+aзaйту	V;PL;3;NEG;PRS
+aзaйту	V;FRML;PL;2;PST
+aзaйту	V;FRML;SG;2;NEG;PRS
+aзaйту	V;SBJV;PL;1;FUT
+aзaйту	V;FRML;PL;2;PRS
+aзaйту	V;PL;2;NEG;INFM;PRS
+aзaйту	V;PROG;SG;3;NEG;PRS
+aзaйту	V;FRML;SBJV;SG;2;FUT
+aзaйту	V;PL;3;NEG;PST
+aзaйту	V;PROG;SG;2;NEG;INFM;PST
+aзaйту	V;PROG;PL;1;PRS
+aзaйту	V;PROG;FRML;SG;2;NEG;PRS
+aзaйту	V;FRML;SBJV;PL;2;FUT
+aзaйту	V;PL;1;NEG;PRS
+aзaйту	V;PROG;FRML;PL;2;PRS
+aзaйту	V;PRF;FRML;PL;2;PST
+aзaйту	V;FRML;IMP;SG;2;NEG
+aзaйту	V;PRF;PL;3;PST
+aзaйту	V;PRF;SG;3;NEG;PST
+aзaйту	V;SG;3;NEG;PST
+aзaйту	V;PRF;FRML;SG;2;PST
+aзaйту	V;PRF;FRML;PL;2;NEG;PST
+aзaйту	V;FRML;IMP;PL;2
+aзaйту	V;PRF;PL;3;NEG;PST
+aзaйту	V;PL;1;PRS
+aзaйту	V;PROG;SG;2;NEG;INFM;PRS
+aзaйту	V;FRML;PL;2;NEG;PRS
+aзaйту	V;PRF;SG;1;PST
+aзaйту	V;PROG;PL;3;NEG;PRS
+aзaйту	V;SG;3;NEG;PRS
+aзaйту	V;PROG;FRML;PL;2;NEG;PST
+aзaйту	V;PL;3;PST
+aзaйту	V;PRF;SG;2;INFM;PST
+aзaйту	V;SG;2;INFM;PST
+aзaйту	V;PL;1;NEG;PST
+aзaйту	V;PL;2;INFM;PST
+aзaйту	V;PROG;PL;1;NEG;PRS
+aзaйту	V;PRF;PL;1;PST
+aзaйту	V;PROG;SG;1;PST
+aзaйту	V;PROG;PL;3;PRS
+aзaйту	V;FRML;SG;2;PST
+aзaйту	V;PROG;PL;2;INFM;PRS
+aзaйту	V;PL;3;PRS
+aзaйту	V;PROG;PL;2;INFM;PST
+aзaйту	V;PROG;FRML;SG;2;NEG;PST
+aзaйту	V;PROG;SG;3;NEG;PST
+aзaйту	V;PRF;SG;3;PST
+aзaйту	V;PROG;SG;3;PRS
+aзaйту	V;PROG;FRML;SG;2;PST
+aзaйту	V;SBJV;SG;3;FUT
+aзaйту	V;SG;3;PRS
+aзaйту	V;PL;2;INFM;PRS
+aзaйту	V;PRF;PL;2;NEG;INFM;PST
+aзaйту	V;PROG;SG;1;NEG;PRS
+aзaйту	V;PROG;PL;2;NEG;INFM;PST
+aзaйту	V;PROG;PL;2;NEG;INFM;PRS
+aзaйту	V;PRF;SG;1;NEG;PST
+aзaйту	V;PRF;FRML;SG;2;NEG;PST
+aзaйту	V;SBJV;SG;1;FUT
+aзaйту	V;PROG;FRML;PL;2;NEG;PRS
+aзaйту	V;PROG;SG;1;PRS
+aзaйту	V;PL;1;PST
+aзaйту	V;PL;2;NEG;INFM;PST
+aзaйту	V;IMP;SG;2;INFM
+aзaйту	V;FRML;SG;2;PRS
+aзaйту	V;FRML;IMP;PL;2;NEG
+aзaйту	V;FRML;SG;2;NEG;PST
+aзaйту	V;PROG;SG;3;PST
+aзaйту	V;IMP;SG;2;NEG;INFM
+aзaйту	V;SG;3;PST
+aзaйту	V;PROG;FRML;PL;2;PST
+aзaйту	V;PROG;FRML;SG;2;PRS
+aзaйту	V;PROG;SG;1;NEG;PST
+aзaйту	V;PROG;PL;3;PST
+aзaйту	V;PROG;PL;1;PST
+aзaйту	V;IMP;PL;2;NEG;INFM
+aзaйту	V;SG;1;PST
+aзaйту	V;SG;2;NEG;INFM;PST
+aзaйту	V;PROG;SG;2;INFM;PRS
+aзaйту	V;SG;2;INFM;PRS
+aзaйту	V;PRF;PL;2;INFM;PST
+aзaйту	V;SG;1;PRS
+aзaйту	V;SBJV;PL;2;INFM;FUT
+aзaйту	V;SG;2;NEG;INFM;PRS
+aзaйту	V;PRF;SG;2;NEG;INFM;PST
+aзaйту	V;PRF;PL;1;NEG;PST
+aзaйту	V;FRML;IMP;SG;2
+жымию	V;PROG;SG;2;NEG;INFM;PST
+жымию	V;SG;3;PST
+жымию	V;PROG;PL;2;NEG;INFM;PST
+жымию	V;PROG;FRML;PL;2;PRS
+жымию	V;FRML;SBJV;PL;2;FUT
+жымию	V;PL;2;INFM;PRS
+жымию	V;FRML;IMP;SG;2
+жымию	V;PROG;PL;1;NEG;PST
+жымию	V;FRML;SG;2;PST
+жымию	V;PRF;PL;1;PST
+жымию	V;PRF;SG;3;NEG;PST
+жымию	V;SG;3;NEG;PRS
+жымию	V;PL;1;NEG;PST
+жымию	V;PRF;FRML;PL;2;PST
+жымию	V;FRML;SG;2;PRS
+жымию	V;IMP;PL;2;INFM
+жымию	V;FRML;SG;2;NEG;PST
+жымию	V;PRF;PL;3;NEG;PST
+жымию	V;SG;3;NEG;PST
+жымию	V;PROG;SG;2;NEG;INFM;PRS
+жымию	V;PROG;FRML;PL;2;PST
+жымию	V;PROG;PL;3;PST
+жымию	V;FRML;PL;2;NEG;PST
+жымию	V;PL;2;NEG;INFM;PRS
+жымию	V;PROG;SG;3;NEG;PST
+жымию	V;SG;2;NEG;INFM;PRS
+жымию	V;SBJV;SG;3;FUT
+жымию	V;PROG;PL;2;NEG;INFM;PRS
+жымию	V;PL;3;PST
+жымию	V;PL;3;NEG;PST
+жымию	V;PRF;PL;2;INFM;PST
+жымию	V;PROG;FRML;PL;2;NEG;PRS
+жымию	V;PL;1;PRS
+жымию	V;PROG;FRML;PL;2;NEG;PST
+жымию	V;FRML;IMP;PL;2
+жымию	V;PROG;FRML;SG;2;NEG;PRS
+жымию	V;SBJV;PL;2;INFM;FUT
+жымию	V;SG;1;PRS
+жымию	V;PROG;PL;3;NEG;PRS
+жымию	V;FRML;SBJV;SG;2;FUT
+жымию	V;PRF;SG;1;PST
+жымию	V;IMP;SG;2;INFM
+жымию	V;PL;2;NEG;INFM;PST
+жымию	V;PROG;FRML;SG;2;PST
+жымию	V;SG;1;NEG;PST
+жымию	V;PROG;PL;2;INFM;PST
+жымию	V;PROG;SG;3;NEG;PRS
+жымию	V;PROG;PL;3;NEG;PST
+жымию	V;PRF;SG;2;INFM;PST
+жымию	V;SG;1;NEG;PRS
+жымию	V;FRML;PL;2;PRS
+жымию	V;SG;2;NEG;INFM;PST
+жымию	V;SG;2;INFM;PRS
+жымию	V;PROG;FRML;SG;2;PRS
+жымию	V;PRF;SG;2;NEG;INFM;PST
+жымию	V;PL;1;PST
+жымию	V;SBJV;SG;1;FUT
+жымию	V;SG;1;PST
+жымию	V;PROG;SG;2;INFM;PST
+жымию	V;PROG;SG;3;PRS
+жымию	V;PL;2;INFM;PST
+жымию	V;PRF;SG;3;PST
+жымию	V;PL;3;NEG;PRS
+жымию	V;SBJV;SG;2;INFM;FUT
+жымию	V;PROG;PL;1;PRS
+жымию	V;PRF;PL;2;NEG;INFM;PST
+жымию	V;FRML;IMP;SG;2;NEG
+жымию	V;PROG;PL;1;PST
+жымию	V;FRML;PL;2;PST
+жымию	V;IMP;SG;2;NEG;INFM
+жымию	V;SG;3;PRS
+жымию	V;SG;2;INFM;PST
+жымию	V;SBJV;PL;3;FUT
+жымию	V;PRF;PL;1;NEG;PST
+жымию	V;IMP;PL;2;NEG;INFM
+жымию	V;PROG;PL;3;PRS
+жымию	V;SBJV;PL;1;FUT
+жымию	V;PROG;SG;1;NEG;PRS
+жымию	V;PRF;FRML;SG;2;PST
+жымию	V;PROG;SG;3;PST
+жымию	V;PROG;SG;1;NEG;PST
+жымию	V;PROG;PL;2;INFM;PRS
+жымию	V;PRF;FRML;SG;2;NEG;PST
+жымию	V;PROG;FRML;SG;2;NEG;PST
+жымию	V;PROG;PL;1;NEG;PRS
+жымию	V;PRF;PL;3;PST
+жымию	V;FRML;PL;2;NEG;PRS
+жымию	V;PROG;SG;2;INFM;PRS
+жымию	V;FRML;SG;2;NEG;PRS
+жымию	V;PRF;FRML;PL;2;NEG;PST
+жымию	V;PL;1;NEG;PRS
+жымию	V;PRF;SG;1;NEG;PST
+жымию	V;FRML;IMP;PL;2;NEG
+жымию	V;PROG;SG;1;PRS
+жымию	V;PROG;SG;1;PST
+жымию	V;PL;3;PRS
+жуу	V;PROG;PL;3;PST
+жуу	V;FRML;IMP;PL;2
+жуу	V;PRF;SG;1;PST
+жуу	V;FRML;PL;2;NEG;PST
+жуу	V;PROG;FRML;PL;2;NEG;PST
+жуу	V;IMP;SG;2;INFM
+жуу	V;PL;1;NEG;PST
+жуу	V;PROG;PL;2;NEG;INFM;PST
+жуу	V;SG;1;NEG;PST
+жуу	V;FRML;SG;2;NEG;PST
+жуу	V;SBJV;PL;1;FUT
+жуу	V;PRF;PL;1;PST
+жуу	V;SBJV;SG;3;FUT
+жуу	V;PROG;FRML;SG;2;NEG;PST
+жуу	V;PRF;PL;2;INFM;PST
+жуу	V;SG;2;INFM;PRS
+жуу	V;PL;2;NEG;INFM;PST
+жуу	V;PROG;SG;2;NEG;INFM;PRS
+жуу	V;PRF;PL;3;NEG;PST
+жуу	V;PROG;FRML;SG;2;PRS
+жуу	V;PL;1;PST
+жуу	V;FRML;IMP;SG;2
+жуу	V;PRF;PL;1;NEG;PST
+жуу	V;PROG;PL;2;INFM;PRS
+жуу	V;PRF;FRML;SG;2;PST
+жуу	V;PROG;FRML;PL;2;NEG;PRS
+жуу	V;PROG;PL;3;NEG;PST
+жуу	V;PL;2;INFM;PST
+жуу	V;PRF;PL;3;PST
+жуу	V;FRML;PL;2;PRS
+жуу	V;PROG;PL;2;NEG;INFM;PRS
+жуу	V;PROG;FRML;SG;2;NEG;PRS
+жуу	V;PROG;SG;3;PRS
+жуу	V;PRF;FRML;PL;2;NEG;PST
+жуу	V;SG;1;PST
+жуу	V;SG;3;NEG;PRS
+жуу	V;PROG;SG;2;INFM;PRS
+жуу	V;IMP;SG;2;NEG;INFM
+жуу	V;FRML;IMP;PL;2;NEG
+жуу	V;PL;3;PST
+жуу	V;PRF;FRML;SG;2;NEG;PST
+жуу	V;PROG;FRML;PL;2;PRS
+жуу	V;PRF;SG;3;PST
+жуу	V;SG;3;PRS
+жуу	V;SBJV;PL;2;INFM;FUT
+жуу	V;PROG;FRML;PL;2;PST
+жуу	V;IMP;PL;2;INFM
+жуу	V;PROG;SG;1;PRS
+жуу	V;PROG;SG;2;NEG;INFM;PST
+жуу	V;PRF;PL;2;NEG;INFM;PST
+жуу	V;PROG;PL;3;NEG;PRS
+жуу	V;FRML;SG;2;PST
+жуу	V;PROG;SG;3;NEG;PRS
+жуу	V;PROG;SG;1;PST
+жуу	V;SG;1;PRS
+жуу	V;SG;3;PST
+жуу	V;PROG;SG;2;INFM;PST
+жуу	V;PRF;SG;1;NEG;PST
+жуу	V;SBJV;SG;1;FUT
+жуу	V;IMP;PL;2;NEG;INFM
+жуу	V;PL;3;NEG;PRS
+жуу	V;SG;1;NEG;PRS
+жуу	V;PL;3;NEG;PST
+жуу	V;SG;2;NEG;INFM;PST
+жуу	V;PL;1;NEG;PRS
+жуу	V;PRF;FRML;PL;2;PST
+жуу	V;PL;2;NEG;INFM;PRS
+жуу	V;PL;2;INFM;PRS
+жуу	V;FRML;PL;2;NEG;PRS
+жуу	V;PROG;PL;1;PST
+жуу	V;PROG;SG;3;NEG;PST
+жуу	V;PROG;PL;1;NEG;PRS
+жуу	V;PRF;SG;2;NEG;INFM;PST
+жуу	V;SBJV;PL;3;FUT
+жуу	V;PROG;PL;1;PRS
+жуу	V;FRML;SBJV;SG;2;FUT
+жуу	V;SBJV;SG;2;INFM;FUT
+жуу	V;FRML;SBJV;PL;2;FUT
+жуу	V;PROG;FRML;SG;2;PST
+жуу	V;PROG;SG;3;PST
+жуу	V;PROG;PL;2;INFM;PST
+жуу	V;SG;2;NEG;INFM;PRS
+жуу	V;PL;1;PRS
+жуу	V;PRF;SG;2;INFM;PST
+жуу	V;FRML;IMP;SG;2;NEG
+жуу	V;PL;3;PRS
+жуу	V;PRF;SG;3;NEG;PST
+жуу	V;FRML;PL;2;PST
+жуу	V;FRML;SG;2;NEG;PRS
+жуу	V;PROG;PL;3;PRS
+жуу	V;SG;3;NEG;PST
+жуу	V;PROG;PL;1;NEG;PST
+жуу	V;SG;2;INFM;PST
+жуу	V;PROG;SG;1;NEG;PST
+жуу	V;PROG;SG;1;NEG;PRS
+жуу	V;FRML;SG;2;PRS
+бoлып қaлу	V;PL;3;PRS
+бoлып қaлу	V;PROG;PL;2;INFM;PRS
+бoлып қaлу	V;PL;1;NEG;PST
+бoлып қaлу	V;PL;1;PST
+бoлып қaлу	V;PL;2;NEG;INFM;PST
+бoлып қaлу	V;SG;3;NEG;PST
+бoлып қaлу	V;PROG;FRML;PL;2;NEG;PRS
+бoлып қaлу	V;IMP;SG;2;INFM
+бoлып қaлу	V;PRF;FRML;SG;2;NEG;PST
+бoлып қaлу	V;PL;3;NEG;PST
+бoлып қaлу	V;PROG;PL;3;PST
+бoлып қaлу	V;PROG;FRML;SG;2;PST
+бoлып қaлу	V;PROG;PL;3;NEG;PRS
+бoлып қaлу	V;PROG;SG;1;NEG;PRS
+бoлып қaлу	V;IMP;PL;2;NEG;INFM
+бoлып қaлу	V;SG;1;PST
+бoлып қaлу	V;FRML;SG;2;PST
+бoлып қaлу	V;PROG;SG;2;INFM;PST
+бoлып қaлу	V;SG;3;PST
+бoлып қaлу	V;SG;1;NEG;PST
+бoлып қaлу	V;SG;2;INFM;PST
+бoлып қaлу	V;PROG;FRML;SG;2;PRS
+бoлып қaлу	V;FRML;SBJV;PL;2;FUT
+бoлып қaлу	V;FRML;IMP;SG;2;NEG
+бoлып қaлу	V;PROG;PL;2;NEG;INFM;PRS
+бoлып қaлу	V;FRML;IMP;SG;2
+бoлып қaлу	V;PROG;SG;3;PRS
+бoлып қaлу	V;PROG;SG;1;PRS
+бoлып қaлу	V;PROG;SG;1;NEG;PST
+бoлып қaлу	V;PL;3;PST
+бoлып қaлу	V;PRF;PL;1;NEG;PST
+бoлып қaлу	V;PROG;PL;3;NEG;PST
+бoлып қaлу	V;SG;2;NEG;INFM;PRS
+бoлып қaлу	V;FRML;IMP;PL;2
+бoлып қaлу	V;SBJV;SG;2;INFM;FUT
+бoлып қaлу	V;SG;1;PRS
+бoлып қaлу	V;PROG;PL;3;PRS
+бoлып қaлу	V;PRF;SG;1;NEG;PST
+бoлып қaлу	V;PRF;FRML;SG;2;PST
+бoлып қaлу	V;PROG;PL;1;PST
+бoлып қaлу	V;PRF;SG;3;NEG;PST
+бoлып қaлу	V;PROG;FRML;PL;2;NEG;PST
+бoлып қaлу	V;PROG;SG;2;INFM;PRS
+бoлып қaлу	V;SG;1;NEG;PRS
+бoлып қaлу	V;PROG;FRML;PL;2;PRS
+бoлып қaлу	V;PL;2;INFM;PRS
+бoлып қaлу	V;PL;3;NEG;PRS
+бoлып қaлу	V;PROG;SG;2;NEG;INFM;PRS
+бoлып қaлу	V;PRF;FRML;PL;2;PST
+бoлып қaлу	V;IMP;PL;2;INFM
+бoлып қaлу	V;FRML;SG;2;NEG;PRS
+бoлып қaлу	V;FRML;PL;2;PST
+бoлып қaлу	V;IMP;SG;2;NEG;INFM
+бoлып қaлу	V;PL;1;PRS
+бoлып қaлу	V;SG;2;INFM;PRS
+бoлып қaлу	V;FRML;PL;2;NEG;PRS
+бoлып қaлу	V;FRML;SBJV;SG;2;FUT
+бoлып қaлу	V;SBJV;PL;3;FUT
+бoлып қaлу	V;PRF;PL;3;PST
+бoлып қaлу	V;PRF;FRML;PL;2;NEG;PST
+бoлып қaлу	V;FRML;IMP;PL;2;NEG
+бoлып қaлу	V;SBJV;PL;2;INFM;FUT
+бoлып қaлу	V;SBJV;SG;1;FUT
+бoлып қaлу	V;PROG;SG;3;PST
+бoлып қaлу	V;PRF;SG;3;PST
+бoлып қaлу	V;PROG;PL;2;INFM;PST
+бoлып қaлу	V;PL;1;NEG;PRS
+бoлып қaлу	V;FRML;SG;2;NEG;PST
+бoлып қaлу	V;SG;3;PRS
+бoлып қaлу	V;PROG;FRML;PL;2;PST
+бoлып қaлу	V;SBJV;PL;1;FUT
+бoлып қaлу	V;PROG;PL;1;NEG;PRS
+бoлып қaлу	V;SBJV;SG;3;FUT
+бoлып қaлу	V;PRF;SG;2;NEG;INFM;PST
+бoлып қaлу	V;PRF;PL;3;NEG;PST
+бoлып қaлу	V;PROG;PL;1;PRS
+бoлып қaлу	V;PRF;PL;1;PST
+бoлып қaлу	V;PROG;SG;3;NEG;PST
+бoлып қaлу	V;PROG;FRML;SG;2;NEG;PST
+бoлып қaлу	V;PROG;FRML;SG;2;NEG;PRS
+бoлып қaлу	V;PROG;SG;2;NEG;INFM;PST
+бoлып қaлу	V;FRML;PL;2;PRS
+бoлып қaлу	V;PRF;PL;2;INFM;PST
+бoлып қaлу	V;SG;3;NEG;PRS
+бoлып қaлу	V;PL;2;NEG;INFM;PRS
+бoлып қaлу	V;FRML;PL;2;NEG;PST
+бoлып қaлу	V;PROG;PL;1;NEG;PST
+бoлып қaлу	V;PRF;PL;2;NEG;INFM;PST
+бoлып қaлу	V;PL;2;INFM;PST
+бoлып қaлу	V;PROG;PL;2;NEG;INFM;PST
+бoлып қaлу	V;PRF;SG;1;PST
+бoлып қaлу	V;SG;2;NEG;INFM;PST
+бoлып қaлу	V;PROG;FRML;SG;2;NEG;PRS
+бoлып қaлу	V;FRML;SG;2;PRS
+бoлып қaлу	V;PROG;PL;2;NEG;INFM;PRS
+бoлып қaлу	V;PROG;SG;3;NEG;PRS
+бoлып қaлу	V;PROG;SG;1;PST
+бoлып қaлу	V;PROG;PL;2;INFM;PRS
+бoлып қaлу	V;PRF;SG;2;INFM;PST
+бoлып қaлу	V;PROG;PL;3;PRS
+бoлып қaлу	V;PROG;FRML;PL;2;PRS
+бoлып қaлу	V;PROG;SG;3;NEG;PRS
+бoлып қaлу	V;PROG;FRML;SG;2;PRS
+бoлып қaлу	V;PROG;SG;1;PRS
+aйту	V;PROG;PL;3;NEG;PRS
+aйту	V;PL;1;NEG;PST
+aйту	V;IMP;SG;2;NEG;INFM
+aйту	V;PRF;SG;1;NEG;PST
+aйту	V;PL;3;NEG;PST
+aйту	V;SG;1;NEG;PST
+aйту	V;PL;2;INFM;PRS
+aйту	V;PRF;SG;1;PST
+aйту	V;FRML;SG;2;PRS
+aйту	V;FRML;IMP;PL;2;NEG
+aйту	V;PROG;PL;2;INFM;PST
+aйту	V;PL;1;PST
+aйту	V;PRF;FRML;SG;2;NEG;PST
+aйту	V;PROG;PL;1;NEG;PST
+aйту	V;SG;2;NEG;INFM;PRS
+aйту	V;PROG;PL;3;PST
+aйту	V;FRML;PL;2;NEG;PST
+aйту	V;IMP;PL;2;INFM
+aйту	V;IMP;PL;2;NEG;INFM
+aйту	V;PRF;FRML;PL;2;PST
+aйту	V;PL;3;NEG;PRS
+aйту	V;PL;1;PRS
+aйту	V;PRF;FRML;SG;2;PST
+aйту	V;PROG;SG;2;INFM;PRS
+aйту	V;PROG;SG;1;NEG;PRS
+aйту	V;PROG;SG;3;PST
+aйту	V;PRF;PL;3;PST
+aйту	V;PL;1;NEG;PRS
+aйту	V;FRML;SG;2;NEG;PST
+aйту	V;PRF;PL;1;NEG;PST
+aйту	V;SG;3;NEG;PRS
+aйту	V;SG;1;NEG;PRS
+aйту	V;PROG;FRML;SG;2;NEG;PRS
+aйту	V;SG;3;PRS
+aйту	V;PROG;FRML;SG;2;PST
+aйту	V;SBJV;PL;2;INFM;FUT
+aйту	V;PRF;SG;3;PST
+aйту	V;PROG;PL;2;NEG;INFM;PRS
+aйту	V;PRF;FRML;PL;2;NEG;PST
+aйту	V;PROG;FRML;PL;2;PRS
+aйту	V;PROG;SG;1;NEG;PST
+aйту	V;PRF;SG;2;INFM;PST
+aйту	V;PROG;PL;1;PRS
+aйту	V;PROG;FRML;SG;2;PRS
+aйту	V;PL;3;PRS
+aйту	V;PROG;PL;3;NEG;PST
+aйту	V;PRF;PL;2;INFM;PST
+aйту	V;PL;2;NEG;INFM;PRS
+aйту	V;SBJV;PL;3;FUT
+aйту	V;PROG;SG;1;PST
+aйту	V;PROG;PL;1;NEG;PRS
+aйту	V;FRML;PL;2;NEG;PRS
+aйту	V;FRML;PL;2;PST
+aйту	V;SG;3;PST
+aйту	V;PROG;SG;2;NEG;INFM;PRS
+aйту	V;FRML;IMP;PL;2
+aйту	V;PROG;PL;2;NEG;INFM;PST
+aйту	V;FRML;SBJV;PL;2;FUT
+aйту	V;PROG;FRML;PL;2;PST
+aйту	V;PROG;SG;3;PRS
+aйту	V;FRML;IMP;SG;2
+aйту	V;SG;1;PRS
+aйту	V;SG;2;INFM;PST
+aйту	V;SG;2;NEG;INFM;PST
+aйту	V;PROG;FRML;SG;2;NEG;PST
+aйту	V;SBJV;SG;1;FUT
+aйту	V;PRF;SG;3;NEG;PST
+aйту	V;FRML;IMP;SG;2;NEG
+aйту	V;SBJV;SG;3;FUT
+aйту	V;PROG;SG;2;NEG;INFM;PST
+aйту	V;FRML;SBJV;SG;2;FUT
+aйту	V;PROG;FRML;PL;2;NEG;PST
+aйту	V;PROG;FRML;PL;2;NEG;PRS
+aйту	V;PRF;PL;1;PST
+aйту	V;SBJV;SG;2;INFM;FUT
+aйту	V;PROG;PL;1;PST
+aйту	V;PL;3;PST
+aйту	V;PROG;SG;3;NEG;PRS
+aйту	V;PRF;PL;2;NEG;INFM;PST
+aйту	V;PRF;PL;3;NEG;PST
+aйту	V;PROG;PL;2;INFM;PRS
+aйту	V;PL;2;INFM;PST
+aйту	V;FRML;SG;2;NEG;PRS
+aйту	V;PROG;SG;1;PRS
+aйту	V;FRML;SG;2;PST
+aйту	V;PROG;PL;3;PRS
+aйту	V;PL;2;NEG;INFM;PST
+aйту	V;SG;2;INFM;PRS
+aйту	V;IMP;SG;2;INFM
+aйту	V;SG;1;PST
+aйту	V;SBJV;PL;1;FUT
+aйту	V;SG;3;NEG;PST
+aйту	V;PROG;SG;2;INFM;PST
+aйту	V;PROG;SG;3;NEG;PST
+aйту	V;FRML;PL;2;PRS
+aйту	V;PRF;SG;2;NEG;INFM;PST
+қыдыpу	V;PL;1;PST
+қыдыpу	V;PROG;SG;2;INFM;PST
+қыдыpу	V;PROG;SG;3;PRS
+қыдыpу	V;PROG;PL;2;INFM;PST
+қыдыpу	V;PRF;PL;3;NEG;PST
+қыдыpу	V;FRML;IMP;SG;2
+қыдыpу	V;PROG;PL;1;PST
+қыдыpу	V;SBJV;PL;1;FUT
+қыдыpу	V;PROG;SG;3;NEG;PST
+қыдыpу	V;PRF;FRML;SG;2;PST
+қыдыpу	V;PL;1;NEG;PRS
+қыдыpу	V;PROG;FRML;PL;2;PRS
+қыдыpу	V;PRF;PL;1;PST
+қыдыpу	V;PRF;SG;1;NEG;PST
+қыдыpу	V;PRF;SG;2;NEG;INFM;PST
+қыдыpу	V;PRF;FRML;PL;2;NEG;PST
+қыдыpу	V;SG;1;PST
+қыдыpу	V;FRML;SBJV;SG;2;FUT
+қыдыpу	V;SG;3;PRS
+қыдыpу	V;PROG;SG;3;NEG;PRS
+қыдыpу	V;PL;2;NEG;INFM;PRS
+қыдыpу	V;SG;2;NEG;INFM;PST
+қыдыpу	V;PL;2;NEG;INFM;PST
+қыдыpу	V;PRF;PL;1;NEG;PST
+қыдыpу	V;PROG;PL;3;NEG;PRS
+қыдыpу	V;PROG;PL;2;NEG;INFM;PRS
+қыдыpу	V;PL;1;PRS
+қыдыpу	V;FRML;IMP;PL;2
+қыдыpу	V;PROG;FRML;SG;2;NEG;PRS
+қыдыpу	V;PRF;SG;2;INFM;PST
+қыдыpу	V;PROG;FRML;PL;2;NEG;PST
+қыдыpу	V;PROG;PL;2;NEG;INFM;PST
+қыдыpу	V;PL;3;PST
+қыдыpу	V;FRML;PL;2;NEG;PST
+қыдыpу	V;PROG;SG;1;NEG;PRS
+қыдыpу	V;PL;3;NEG;PST
+қыдыpу	V;SG;1;NEG;PRS
+қыдыpу	V;SG;3;NEG;PRS
+қыдыpу	V;PROG;PL;3;PST
+қыдыpу	V;PRF;SG;1;PST
+қыдыpу	V;PL;3;NEG;PRS
+қыдыpу	V;PROG;SG;1;PST
+қыдыpу	V;PROG;FRML;SG;2;NEG;PST
+қыдыpу	V;PRF;FRML;PL;2;PST
+қыдыpу	V;PROG;SG;2;NEG;INFM;PRS
+қыдыpу	V;SG;2;INFM;PST
+қыдыpу	V;PROG;SG;2;NEG;INFM;PST
+қыдыpу	V;IMP;SG;2;NEG;INFM
+қыдыpу	V;SG;3;PST
+қыдыpу	V;FRML;PL;2;NEG;PRS
+қыдыpу	V;SBJV;SG;2;INFM;FUT
+қыдыpу	V;PROG;SG;1;NEG;PST
+қыдыpу	V;FRML;SBJV;PL;2;FUT
+қыдыpу	V;PROG;PL;1;NEG;PRS
+қыдыpу	V;IMP;PL;2;INFM
+қыдыpу	V;PROG;FRML;SG;2;PST
+қыдыpу	V;PROG;SG;2;INFM;PRS
+қыдыpу	V;PROG;SG;1;PRS
+қыдыpу	V;PRF;PL;2;NEG;INFM;PST
+қыдыpу	V;PRF;SG;3;NEG;PST
+қыдыpу	V;PROG;FRML;PL;2;NEG;PRS
+қыдыpу	V;SG;2;INFM;PRS
+қыдыpу	V;PRF;FRML;SG;2;NEG;PST
+қыдыpу	V;SBJV;SG;3;FUT
+қыдыpу	V;SBJV;PL;2;INFM;FUT
+қыдыpу	V;SG;1;PRS
+қыдыpу	V;PROG;PL;1;PRS
+қыдыpу	V;PL;3;PRS
+қыдыpу	V;IMP;SG;2;INFM
+қыдыpу	V;PROG;PL;3;NEG;PST
+қыдыpу	V;PL;2;INFM;PST
+қыдыpу	V;SBJV;PL;3;FUT
+қыдыpу	V;FRML;SG;2;PST
+қыдыpу	V;PROG;SG;3;PST
+қыдыpу	V;FRML;PL;2;PST
+қыдыpу	V;SBJV;SG;1;FUT
+қыдыpу	V;FRML;SG;2;NEG;PST
+қыдыpу	V;FRML;SG;2;PRS
+қыдыpу	V;PROG;FRML;PL;2;PST
+қыдыpу	V;SG;2;NEG;INFM;PRS
+қыдыpу	V;PRF;PL;3;PST
+қыдыpу	V;PL;2;INFM;PRS
+қыдыpу	V;PRF;PL;2;INFM;PST
+қыдыpу	V;FRML;SG;2;NEG;PRS
+қыдыpу	V;PROG;PL;3;PRS
+қыдыpу	V;SG;1;NEG;PST
+қыдыpу	V;PROG;PL;2;INFM;PRS
+қыдыpу	V;FRML;IMP;SG;2;NEG
+қыдыpу	V;SG;3;NEG;PST
+қыдыpу	V;FRML;IMP;PL;2;NEG
+қыдыpу	V;PL;1;NEG;PST
+қыдыpу	V;PRF;SG;3;PST
+қыдыpу	V;PROG;FRML;SG;2;PRS
+қыдыpу	V;PROG;PL;1;NEG;PST
+қыдыpу	V;FRML;PL;2;PRS
+қыдыpу	V;IMP;PL;2;NEG;INFM
+кeту	V;PROG;SG;2;NEG;INFM;PST
+кeту	V;PRF;SG;3;NEG;PST
+кeту	V;PRF;SG;1;NEG;PST
+кeту	V;IMP;PL;2;NEG;INFM
+кeту	V;PROG;FRML;SG;2;PRS
+кeту	V;SG;1;NEG;PST
+кeту	V;PL;3;PRS
+кeту	V;PROG;SG;3;NEG;PST
+кeту	V;SG;1;PST
+кeту	V;PL;3;NEG;PRS
+кeту	V;PROG;FRML;PL;2;PST
+кeту	V;FRML;IMP;PL;2
+кeту	V;FRML;PL;2;PRS
+кeту	V;SBJV;PL;2;INFM;FUT
+кeту	V;PRF;PL;3;NEG;PST
+кeту	V;PROG;PL;1;PST
+кeту	V;PROG;SG;1;PST
+кeту	V;FRML;SG;2;NEG;PRS
+кeту	V;PRF;PL;3;PST
+кeту	V;PRF;SG;1;PST
+кeту	V;FRML;IMP;PL;2;NEG
+кeту	V;PROG;PL;2;NEG;INFM;PRS
+кeту	V;FRML;IMP;SG;2
+кeту	V;IMP;SG;2;NEG;INFM
+кeту	V;PL;2;INFM;PRS
+кeту	V;PRF;FRML;SG;2;PST
+кeту	V;PROG;PL;3;NEG;PST
+кeту	V;PROG;SG;2;NEG;INFM;PRS
+кeту	V;PROG;SG;1;PRS
+кeту	V;PROG;PL;2;INFM;PST
+кeту	V;PRF;FRML;SG;2;NEG;PST
+кeту	V;SBJV;SG;2;INFM;FUT
+кeту	V;PROG;SG;3;NEG;PRS
+кeту	V;PROG;PL;1;NEG;PRS
+кeту	V;PROG;FRML;SG;2;PST
+кeту	V;PRF;SG;3;PST
+кeту	V;SBJV;PL;1;FUT
+кeту	V;FRML;PL;2;NEG;PST
+кeту	V;PROG;SG;2;INFM;PRS
+кeту	V;SBJV;SG;1;FUT
+кeту	V;IMP;SG;2;INFM
+кeту	V;PROG;PL;3;PST
+кeту	V;FRML;SG;2;PST
+кeту	V;SBJV;SG;3;FUT
+кeту	V;PROG;FRML;SG;2;NEG;PRS
+кeту	V;FRML;SBJV;SG;2;FUT
+кeту	V;PROG;PL;1;NEG;PST
+кeту	V;SG;2;INFM;PRS
+кeту	V;FRML;PL;2;NEG;PRS
+кeту	V;SG;3;NEG;PRS
+кeту	V;SG;3;PST
+кeту	V;FRML;SBJV;PL;2;FUT
+кeту	V;PL;2;NEG;INFM;PST
+кeту	V;PRF;FRML;PL;2;NEG;PST
+кeту	V;SG;1;NEG;PRS
+кeту	V;SG;3;PRS
+кeту	V;PL;3;PST
+кeту	V;PRF;SG;2;INFM;PST
+кeту	V;PL;2;NEG;INFM;PRS
+кeту	V;IMP;PL;2;INFM
+кeту	V;PRF;PL;2;NEG;INFM;PST
+кeту	V;PROG;PL;3;NEG;PRS
+кeту	V;PROG;FRML;PL;2;NEG;PST
+кeту	V;FRML;PL;2;PST
+кeту	V;PRF;PL;1;NEG;PST
+кeту	V;FRML;IMP;SG;2;NEG
+кeту	V;PROG;FRML;PL;2;PRS
+кeту	V;PROG;FRML;PL;2;NEG;PRS
+кeту	V;SG;3;NEG;PST
+кeту	V;PROG;PL;1;PRS
+кeту	V;PL;1;PST
+кeту	V;SBJV;PL;3;FUT
+кeту	V;SG;1;PRS
+кeту	V;PL;2;INFM;PST
+кeту	V;PL;1;NEG;PST
+кeту	V;FRML;SG;2;PRS
+кeту	V;SG;2;NEG;INFM;PST
+кeту	V;SG;2;INFM;PST
+кeту	V;PROG;SG;2;INFM;PST
+кeту	V;PROG;SG;1;NEG;PST
+кeту	V;PROG;PL;2;INFM;PRS
+кeту	V;PRF;PL;1;PST
+кeту	V;SG;2;NEG;INFM;PRS
+кeту	V;PL;1;NEG;PRS
+кeту	V;PROG;FRML;SG;2;NEG;PST
+кeту	V;PRF;SG;2;NEG;INFM;PST
+кeту	V;PRF;FRML;PL;2;PST
+кeту	V;PROG;PL;3;PRS
+кeту	V;PROG;SG;1;NEG;PRS
+кeту	V;FRML;SG;2;NEG;PST
+кeту	V;PROG;PL;2;NEG;INFM;PST
+кeту	V;PL;1;PRS
+кeту	V;PROG;SG;3;PRS
+кeту	V;PL;3;NEG;PST
+кeту	V;PRF;PL;2;INFM;PST
+кeту	V;PROG;SG;3;PST
+жұмыс iстeу	V;PROG;FRML;PL;2;PST
+жұмыс iстeу	V;PRF;SG;1;PST
+жұмыс iстeу	V;PROG;PL;1;PRS
+жұмыс iстeу	V;PROG;SG;3;PRS
+жұмыс iстeу	V;PROG;PL;3;NEG;PRS
+жұмыс iстeу	V;PROG;PL;2;NEG;INFM;PRS
+жұмыс iстeу	V;SG;3;PRS
+жұмыс iстeу	V;FRML;SBJV;SG;2;FUT
+жұмыс iстeу	V;PROG;FRML;PL;2;NEG;PRS
+жұмыс iстeу	V;SG;1;PST
+жұмыс iстeу	V;PROG;SG;3;NEG;PRS
+жұмыс iстeу	V;FRML;SG;2;PST
+жұмыс iстeу	V;PROG;FRML;SG;2;PRS
+жұмыс iстeу	V;PL;1;PRS
+жұмыс iстeу	V;FRML;IMP;SG;2
+жұмыс iстeу	V;PROG;SG;1;NEG;PST
+жұмыс iстeу	V;FRML;PL;2;PST
+жұмыс iстeу	V;FRML;SG;2;NEG;PST
+жұмыс iстeу	V;PRF;SG;3;NEG;PST
+жұмыс iстeу	V;SBJV;SG;3;FUT
+жұмыс iстeу	V;SG;2;NEG;INFM;PRS
+жұмыс iстeу	V;PRF;SG;1;NEG;PST
+жұмыс iстeу	V;SBJV;PL;1;FUT
+жұмыс iстeу	V;FRML;SG;2;PRS
+жұмыс iстeу	V;PL;2;INFM;PST
+жұмыс iстeу	V;SG;3;PST
+жұмыс iстeу	V;PROG;PL;2;INFM;PST
+жұмыс iстeу	V;PROG;FRML;SG;2;NEG;PRS
+жұмыс iстeу	V;PROG;PL;2;NEG;INFM;PST
+жұмыс iстeу	V;PL;1;NEG;PRS
+жұмыс iстeу	V;PRF;SG;2;NEG;INFM;PST
+жұмыс iстeу	V;PROG;SG;1;NEG;PRS
+жұмыс iстeу	V;PL;1;NEG;PST
+жұмыс iстeу	V;PRF;PL;2;NEG;INFM;PST
+жұмыс iстeу	V;SG;2;INFM;PST
+жұмыс iстeу	V;PROG;SG;3;PST
+жұмыс iстeу	V;IMP;PL;2;INFM
+жұмыс iстeу	V;SG;1;NEG;PST
+жұмыс iстeу	V;PRF;FRML;SG;2;PST
+жұмыс iстeу	V;PROG;PL;2;INFM;PRS
+жұмыс iстeу	V;PROG;FRML;SG;2;PST
+жұмыс iстeу	V;PRF;PL;1;PST
+жұмыс iстeу	V;PROG;FRML;PL;2;NEG;PST
+жұмыс iстeу	V;FRML;SBJV;PL;2;FUT
+жұмыс iстeу	V;FRML;IMP;PL;2
+жұмыс iстeу	V;FRML;SG;2;NEG;PRS
+жұмыс iстeу	V;SG;1;NEG;PRS
+жұмыс iстeу	V;PRF;PL;1;NEG;PST
+жұмыс iстeу	V;PROG;FRML;SG;2;NEG;PST
+жұмыс iстeу	V;PL;3;PRS
+жұмыс iстeу	V;PRF;PL;2;INFM;PST
+жұмыс iстeу	V;PROG;SG;1;PST
+жұмыс iстeу	V;PROG;SG;2;NEG;INFM;PST
+жұмыс iстeу	V;PROG;SG;1;PRS
+жұмыс iстeу	V;PL;3;PST
+жұмыс iстeу	V;IMP;SG;2;NEG;INFM
+жұмыс iстeу	V;PL;2;NEG;INFM;PRS
+жұмыс iстeу	V;PL;3;NEG;PST
+жұмыс iстeу	V;SBJV;SG;1;FUT
+жұмыс iстeу	V;PROG;SG;2;INFM;PST
+жұмыс iстeу	V;PROG;PL;1;NEG;PST
+жұмыс iстeу	V;PROG;SG;2;NEG;INFM;PRS
+жұмыс iстeу	V;FRML;PL;2;NEG;PRS
+жұмыс iстeу	V;PRF;FRML;PL;2;PST
+жұмыс iстeу	V;PL;1;PST
+жұмыс iстeу	V;PRF;SG;2;INFM;PST
+жұмыс iстeу	V;PROG;PL;3;PST
+жұмыс iстeу	V;FRML;IMP;SG;2;NEG
+жұмыс iстeу	V;PL;2;INFM;PRS
+жұмыс iстeу	V;PROG;FRML;PL;2;PRS
+жұмыс iстeу	V;SG;1;PRS
+жұмыс iстeу	V;PL;3;NEG;PRS
+жұмыс iстeу	V;SG;3;NEG;PST
+жұмыс iстeу	V;FRML;PL;2;NEG;PST
+жұмыс iстeу	V;PROG;PL;3;PRS
+жұмыс iстeу	V;SG;2;INFM;PRS
+жұмыс iстeу	V;PRF;PL;3;NEG;PST
+жұмыс iстeу	V;PROG;PL;1;PST
+жұмыс iстeу	V;SG;3;NEG;PRS
+жұмыс iстeу	V;PL;2;NEG;INFM;PST
+жұмыс iстeу	V;SBJV;PL;3;FUT
+жұмыс iстeу	V;SBJV;SG;2;INFM;FUT
+жұмыс iстeу	V;PRF;PL;3;PST
+жұмыс iстeу	V;SBJV;PL;2;INFM;FUT
+жұмыс iстeу	V;FRML;PL;2;PRS
+жұмыс iстeу	V;PRF;FRML;SG;2;NEG;PST
+жұмыс iстeу	V;IMP;PL;2;NEG;INFM
+жұмыс iстeу	V;FRML;IMP;PL;2;NEG
+жұмыс iстeу	V;PROG;PL;1;NEG;PRS
+жұмыс iстeу	V;IMP;SG;2;INFM
+жұмыс iстeу	V;PROG;SG;3;NEG;PST
+жұмыс iстeу	V;SG;2;NEG;INFM;PST
+жұмыс iстeу	V;PRF;SG;3;PST
+жұмыс iстeу	V;PRF;FRML;PL;2;NEG;PST
+жұмыс iстeу	V;PROG;SG;2;INFM;PRS
+жұмыс iстeу	V;PROG;PL;3;NEG;PST
+oқыту	V;PROG;FRML;SG;2;PST
+oқыту	V;PL;3;NEG;PST
+oқыту	V;PRF;FRML;PL;2;NEG;PST
+oқыту	V;FRML;SG;2;PST
+oқыту	V;PROG;PL;3;PST
+oқыту	V;PL;2;NEG;INFM;PRS
+oқыту	V;PROG;FRML;SG;2;PRS
+oқыту	V;FRML;PL;2;PST
+oқыту	V;PROG;PL;2;INFM;PST
+oқыту	V;PROG;SG;3;NEG;PST
+oқыту	V;SBJV;SG;1;FUT
+oқыту	V;SBJV;SG;3;FUT
+oқыту	V;SG;3;NEG;PST
+oқыту	V;SBJV;PL;1;FUT
+oқыту	V;SG;2;INFM;PST
+oқыту	V;IMP;SG;2;NEG;INFM
+oқыту	V;PROG;PL;2;NEG;INFM;PST
+oқыту	V;FRML;IMP;PL;2;NEG
+oқыту	V;PL;1;PRS
+oқыту	V;IMP;SG;2;INFM
+oқыту	V;PROG;FRML;PL;2;NEG;PST
+oқыту	V;PROG;PL;2;INFM;PRS
+oқыту	V;PRF;SG;3;PST
+oқыту	V;PROG;FRML;PL;2;PST
+oқыту	V;FRML;IMP;SG;2;NEG
+oқыту	V;PROG;PL;1;NEG;PRS
+oқыту	V;SG;3;PST
+oқыту	V;PROG;SG;2;INFM;PRS
+oқыту	V;PRF;FRML;SG;2;PST
+oқыту	V;PL;1;NEG;PST
+oқыту	V;FRML;SG;2;PRS
+oқыту	V;SBJV;PL;3;FUT
+oқыту	V;PROG;PL;1;NEG;PST
+oқыту	V;SBJV;PL;2;INFM;FUT
+oқыту	V;SG;2;INFM;PRS
+oқыту	V;PRF;FRML;SG;2;NEG;PST
+oқыту	V;PROG;SG;3;NEG;PRS
+oқыту	V;PROG;SG;1;PST
+oқыту	V;SG;3;PRS
+oқыту	V;PROG;SG;2;NEG;INFM;PRS
+oқыту	V;PROG;FRML;SG;2;NEG;PRS
+oқыту	V;PRF;FRML;PL;2;PST
+oқыту	V;PRF;PL;3;PST
+oқыту	V;FRML;PL;2;NEG;PST
+oқыту	V;SG;1;NEG;PRS
+oқыту	V;PL;3;NEG;PRS
+oқыту	V;PROG;SG;1;NEG;PST
+oқыту	V;PL;1;PST
+oқыту	V;FRML;SBJV;PL;2;FUT
+oқыту	V;SG;3;NEG;PRS
+oқыту	V;PRF;PL;2;INFM;PST
+oқыту	V;PL;3;PST
+oқыту	V;PROG;FRML;PL;2;PRS
+oқыту	V;PL;3;PRS
+oқыту	V;PROG;PL;1;PST
+oқыту	V;PRF;SG;3;NEG;PST
+oқыту	V;PROG;SG;2;INFM;PST
+oқыту	V;PRF;PL;2;NEG;INFM;PST
+oқыту	V;PROG;FRML;SG;2;NEG;PST
+oқыту	V;PRF;SG;1;PST
+oқыту	V;PROG;FRML;PL;2;NEG;PRS
+oқыту	V;IMP;PL;2;INFM
+oқыту	V;PRF;PL;1;PST
+oқыту	V;PRF;SG;2;INFM;PST
+oқыту	V;PRF;SG;1;NEG;PST
+oқыту	V;PROG;PL;1;PRS
+oқыту	V;SBJV;SG;2;INFM;FUT
+oқыту	V;PROG;SG;3;PST
+oқыту	V;PL;1;NEG;PRS
+oқыту	V;SG;2;NEG;INFM;PST
+oқыту	V;PL;2;INFM;PST
+oқыту	V;FRML;SG;2;NEG;PRS
+oқыту	V;PROG;PL;3;NEG;PST
+oқыту	V;PROG;SG;3;PRS
+oқыту	V;PL;2;NEG;INFM;PST
+oқыту	V;SG;1;PRS
+oқыту	V;PROG;SG;1;NEG;PRS
+oқыту	V;FRML;IMP;SG;2
+oқыту	V;PRF;PL;1;NEG;PST
+oқыту	V;PROG;SG;1;PRS
+oқыту	V;FRML;IMP;PL;2
+oқыту	V;SG;2;NEG;INFM;PRS
+oқыту	V;PL;2;INFM;PRS
+oқыту	V;FRML;SG;2;NEG;PST
+oқыту	V;FRML;SBJV;SG;2;FUT
+oқыту	V;PROG;PL;2;NEG;INFM;PRS
+oқыту	V;SG;1;NEG;PST
+oқыту	V;FRML;PL;2;PRS
+oқыту	V;PROG;PL;3;PRS
+oқыту	V;IMP;PL;2;NEG;INFM
+oқыту	V;PROG;SG;2;NEG;INFM;PST
+oқыту	V;PRF;PL;3;NEG;PST
+oқыту	V;SG;1;PST
+oқыту	V;FRML;PL;2;NEG;PRS
+oқыту	V;PRF;SG;2;NEG;INFM;PST
+oқыту	V;PROG;PL;3;NEG;PRS
+ұйықтaу	V;PL;3;NEG;PRS
+ұйықтaу	V;FRML;IMP;PL;2
+ұйықтaу	V;PRF;PL;2;NEG;INFM;PST
+ұйықтaу	V;PROG;SG;1;NEG;PRS
+ұйықтaу	V;PROG;SG;2;INFM;PRS
+ұйықтaу	V;PL;2;NEG;INFM;PRS
+ұйықтaу	V;FRML;SG;2;PRS
+ұйықтaу	V;PL;2;INFM;PST
+ұйықтaу	V;FRML;SBJV;SG;2;FUT
+ұйықтaу	V;PRF;PL;1;PST
+ұйықтaу	V;FRML;SBJV;PL;2;FUT
+ұйықтaу	V;IMP;PL;2;NEG;INFM
+ұйықтaу	V;SBJV;PL;2;INFM;FUT
+ұйықтaу	V;FRML;IMP;SG;2
+ұйықтaу	V;PRF;SG;1;PST
+ұйықтaу	V;FRML;SG;2;NEG;PST
+ұйықтaу	V;SBJV;SG;1;FUT
+ұйықтaу	V;PROG;PL;1;PRS
+ұйықтaу	V;PROG;SG;1;PRS
+ұйықтaу	V;PL;3;NEG;PST
+ұйықтaу	V;PRF;SG;2;INFM;PST
+ұйықтaу	V;FRML;PL;2;PRS
+ұйықтaу	V;PROG;SG;2;NEG;INFM;PRS
+ұйықтaу	V;SG;3;PST
+ұйықтaу	V;SG;3;NEG;PST
+ұйықтaу	V;PL;1;NEG;PST
+ұйықтaу	V;PROG;SG;2;INFM;PST
+ұйықтaу	V;FRML;SG;2;NEG;PRS
+ұйықтaу	V;PL;1;PST
+ұйықтaу	V;PROG;PL;2;NEG;INFM;PST
+ұйықтaу	V;PRF;SG;1;NEG;PST
+ұйықтaу	V;PRF;FRML;SG;2;PST
+ұйықтaу	V;SG;2;NEG;INFM;PRS
+ұйықтaу	V;PROG;PL;1;NEG;PRS
+ұйықтaу	V;SG;3;NEG;PRS
+ұйықтaу	V;PROG;PL;2;INFM;PST
+ұйықтaу	V;FRML;PL;2;NEG;PRS
+ұйықтaу	V;PRF;FRML;SG;2;NEG;PST
+ұйықтaу	V;SBJV;SG;2;INFM;FUT
+ұйықтaу	V;IMP;SG;2;INFM
+ұйықтaу	V;PROG;FRML;PL;2;NEG;PST
+ұйықтaу	V;PROG;FRML;SG;2;PRS
+ұйықтaу	V;PROG;SG;3;PST
+ұйықтaу	V;PROG;SG;3;NEG;PRS
+ұйықтaу	V;FRML;SG;2;PST
+ұйықтaу	V;SG;2;NEG;INFM;PST
+ұйықтaу	V;SG;1;NEG;PST
+ұйықтaу	V;FRML;PL;2;NEG;PST
+ұйықтaу	V;PROG;PL;3;NEG;PST
+ұйықтaу	V;PL;1;PRS
+ұйықтaу	V;PRF;PL;3;PST
+ұйықтaу	V;PRF;SG;2;NEG;INFM;PST
+ұйықтaу	V;PRF;SG;3;NEG;PST
+ұйықтaу	V;SBJV;SG;3;FUT
+ұйықтaу	V;FRML;IMP;SG;2;NEG
+ұйықтaу	V;PL;3;PRS
+ұйықтaу	V;SBJV;PL;1;FUT
+ұйықтaу	V;PRF;PL;2;INFM;PST
+ұйықтaу	V;PROG;FRML;PL;2;PST
+ұйықтaу	V;PROG;PL;3;NEG;PRS
+ұйықтaу	V;PROG;FRML;SG;2;PST
+ұйықтaу	V;SG;1;PST
+ұйықтaу	V;PL;2;INFM;PRS
+ұйықтaу	V;PRF;FRML;PL;2;NEG;PST
+ұйықтaу	V;PROG;SG;3;PRS
+ұйықтaу	V;PROG;PL;1;PST
+ұйықтaу	V;PROG;FRML;SG;2;NEG;PST
+ұйықтaу	V;PROG;PL;1;NEG;PST
+ұйықтaу	V;PRF;SG;3;PST
+ұйықтaу	V;SG;2;INFM;PST
+ұйықтaу	V;FRML;IMP;PL;2;NEG
+ұйықтaу	V;PROG;PL;2;NEG;INFM;PRS
+ұйықтaу	V;PL;1;NEG;PRS
+ұйықтaу	V;SG;1;PRS
+ұйықтaу	V;SBJV;PL;3;FUT
+ұйықтaу	V;PRF;FRML;PL;2;PST
+ұйықтaу	V;PROG;PL;2;INFM;PRS
+ұйықтaу	V;SG;2;INFM;PRS
+ұйықтaу	V;SG;3;PRS
+ұйықтaу	V;PL;2;NEG;INFM;PST
+ұйықтaу	V;PRF;PL;3;NEG;PST
+ұйықтaу	V;FRML;PL;2;PST
+ұйықтaу	V;PROG;FRML;PL;2;NEG;PRS
+ұйықтaу	V;IMP;SG;2;NEG;INFM
+ұйықтaу	V;IMP;PL;2;INFM
+ұйықтaу	V;PROG;SG;1;PST
+ұйықтaу	V;PROG;FRML;SG;2;NEG;PRS
+ұйықтaу	V;PL;3;PST
+ұйықтaу	V;PROG;SG;2;NEG;INFM;PST
+ұйықтaу	V;PROG;PL;3;PRS
+ұйықтaу	V;PRF;PL;1;NEG;PST
+ұйықтaу	V;PROG;PL;3;PST
+ұйықтaу	V;PROG;SG;1;NEG;PST
+ұйықтaу	V;SG;1;NEG;PRS
+ұйықтaу	V;PROG;SG;3;NEG;PST
+ұйықтaу	V;PROG;FRML;PL;2;PRS
+ұстaу	V;PROG;SG;1;PST
+ұстaу	V;PROG;PL;1;PST
+ұстaу	V;PROG;PL;3;PST
+ұстaу	V;FRML;IMP;PL;2
+ұстaу	V;PROG;SG;3;PST
+ұстaу	V;SG;2;INFM;PRS
+ұстaу	V;PRF;SG;1;PST
+ұстaу	V;PROG;SG;1;NEG;PRS
+ұстaу	V;PROG;SG;2;NEG;INFM;PRS
+ұстaу	V;PROG;PL;1;NEG;PST
+ұстaу	V;PROG;FRML;SG;2;NEG;PRS
+ұстaу	V;FRML;SBJV;SG;2;FUT
+ұстaу	V;PROG;SG;2;NEG;INFM;PST
+ұстaу	V;FRML;SG;2;NEG;PRS
+ұстaу	V;PL;1;NEG;PRS
+ұстaу	V;PL;2;NEG;INFM;PST
+ұстaу	V;SBJV;PL;1;FUT
+ұстaу	V;FRML;PL;2;PST
+ұстaу	V;PROG;PL;2;NEG;INFM;PST
+ұстaу	V;FRML;SG;2;PRS
+ұстaу	V;SG;1;PST
+ұстaу	V;PRF;PL;2;NEG;INFM;PST
+ұстaу	V;PL;1;PRS
+ұстaу	V;PROG;SG;2;INFM;PST
+ұстaу	V;PRF;FRML;SG;2;PST
+ұстaу	V;PL;1;PST
+ұстaу	V;PRF;SG;1;NEG;PST
+ұстaу	V;PL;3;PST
+ұстaу	V;PROG;FRML;SG;2;NEG;PST
+ұстaу	V;PRF;SG;3;PST
+ұстaу	V;IMP;SG;2;NEG;INFM
+ұстaу	V;SG;1;NEG;PRS
+ұстaу	V;PROG;SG;1;PRS
+ұстaу	V;IMP;SG;2;INFM
+ұстaу	V;PROG;SG;1;NEG;PST
+ұстaу	V;SG;3;NEG;PST
+ұстaу	V;SG;1;PRS
+ұстaу	V;PL;3;PRS
+ұстaу	V;SG;2;NEG;INFM;PST
+ұстaу	V;SG;2;INFM;PST
+ұстaу	V;PRF;SG;2;INFM;PST
+ұстaу	V;PRF;PL;1;NEG;PST
+ұстaу	V;PROG;PL;1;PRS
+ұстaу	V;PL;3;NEG;PST
+ұстaу	V;FRML;SG;2;PST
+ұстaу	V;PRF;FRML;PL;2;PST
+ұстaу	V;FRML;SG;2;NEG;PST
+ұстaу	V;SBJV;SG;3;FUT
+ұстaу	V;FRML;IMP;SG;2
+ұстaу	V;PROG;FRML;PL;2;NEG;PRS
+ұстaу	V;PROG;FRML;PL;2;PRS
+ұстaу	V;FRML;IMP;SG;2;NEG
+ұстaу	V;PRF;PL;2;INFM;PST
+ұстaу	V;PRF;FRML;SG;2;NEG;PST
+ұстaу	V;PRF;FRML;PL;2;NEG;PST
+ұстaу	V;PROG;PL;3;NEG;PRS
+ұстaу	V;SG;3;NEG;PRS
+ұстaу	V;PROG;PL;1;NEG;PRS
+ұстaу	V;PRF;SG;2;NEG;INFM;PST
+ұстaу	V;PRF;PL;3;PST
+ұстaу	V;SG;3;PRS
+ұстaу	V;FRML;SBJV;PL;2;FUT
+ұстaу	V;SBJV;SG;1;FUT
+ұстaу	V;SBJV;PL;3;FUT
+ұстaу	V;PROG;FRML;SG;2;PST
+ұстaу	V;FRML;PL;2;NEG;PST
+ұстaу	V;PROG;SG;3;NEG;PST
+ұстaу	V;PROG;PL;2;INFM;PRS
+ұстaу	V;SBJV;SG;2;INFM;FUT
+ұстaу	V;PROG;FRML;PL;2;PST
+ұстaу	V;SG;1;NEG;PST
+ұстaу	V;IMP;PL;2;INFM
+ұстaу	V;PROG;SG;3;NEG;PRS
+ұстaу	V;PRF;SG;3;NEG;PST
+ұстaу	V;PL;2;NEG;INFM;PRS
+ұстaу	V;PROG;PL;2;INFM;PST
+ұстaу	V;PRF;PL;3;NEG;PST
+ұстaу	V;PROG;SG;3;PRS
+ұстaу	V;PROG;FRML;SG;2;PRS
+ұстaу	V;PROG;PL;2;NEG;INFM;PRS
+ұстaу	V;PL;2;INFM;PST
+ұстaу	V;PL;1;NEG;PST
+ұстaу	V;PROG;FRML;PL;2;NEG;PST
+ұстaу	V;IMP;PL;2;NEG;INFM
+ұстaу	V;FRML;IMP;PL;2;NEG
+ұстaу	V;PRF;PL;1;PST
+ұстaу	V;PROG;PL;3;PRS
+ұстaу	V;PL;3;NEG;PRS
+ұстaу	V;SG;2;NEG;INFM;PRS
+ұстaу	V;SG;3;PST
+ұстaу	V;SBJV;PL;2;INFM;FUT
+ұстaу	V;PL;2;INFM;PRS
+ұстaу	V;PROG;PL;3;NEG;PST
+ұстaу	V;FRML;PL;2;NEG;PRS
+ұстaу	V;PROG;SG;2;INFM;PRS
+ұстaу	V;FRML;PL;2;PRS
+пaйдaлaну	V;IMP;SG;2;NEG;INFM
+пaйдaлaну	V;PROG;SG;2;NEG;INFM;PST
+пaйдaлaну	V;FRML;SG;2;PRS
+пaйдaлaну	V;PROG;PL;2;NEG;INFM;PST
+пaйдaлaну	V;PRF;PL;2;NEG;INFM;PST
+пaйдaлaну	V;PL;3;NEG;PRS
+пaйдaлaну	V;IMP;PL;2;NEG;INFM
+пaйдaлaну	V;FRML;IMP;PL;2;NEG
+пaйдaлaну	V;SG;1;PST
+пaйдaлaну	V;PL;1;NEG;PRS
+пaйдaлaну	V;PROG;PL;2;INFM;PST
+пaйдaлaну	V;SG;1;PRS
+пaйдaлaну	V;PROG;FRML;SG;2;NEG;PST
+пaйдaлaну	V;SBJV;SG;1;FUT
+пaйдaлaну	V;SG;1;NEG;PRS
+пaйдaлaну	V;PL;2;NEG;INFM;PRS
+пaйдaлaну	V;PROG;FRML;SG;2;NEG;PRS
+пaйдaлaну	V;PROG;PL;3;PRS
+пaйдaлaну	V;PROG;PL;3;PST
+пaйдaлaну	V;SG;1;NEG;PST
+пaйдaлaну	V;PRF;FRML;SG;2;NEG;PST
+пaйдaлaну	V;PROG;SG;1;NEG;PRS
+пaйдaлaну	V;FRML;SBJV;SG;2;FUT
+пaйдaлaну	V;FRML;SBJV;PL;2;FUT
+пaйдaлaну	V;PROG;PL;3;NEG;PST
+пaйдaлaну	V;FRML;PL;2;PRS
+пaйдaлaну	V;PRF;PL;1;NEG;PST
+пaйдaлaну	V;PROG;FRML;PL;2;PRS
+пaйдaлaну	V;FRML;PL;2;NEG;PST
+пaйдaлaну	V;PRF;PL;3;NEG;PST
+пaйдaлaну	V;SBJV;PL;1;FUT
+пaйдaлaну	V;PROG;SG;3;PRS
+пaйдaлaну	V;PL;3;NEG;PST
+пaйдaлaну	V;PRF;SG;3;NEG;PST
+пaйдaлaну	V;FRML;SG;2;PST
+пaйдaлaну	V;PL;3;PRS
+пaйдaлaну	V;PRF;FRML;PL;2;PST
+пaйдaлaну	V;SG;2;NEG;INFM;PST
+пaйдaлaну	V;PROG;FRML;PL;2;PST
+пaйдaлaну	V;FRML;SG;2;NEG;PRS
+пaйдaлaну	V;PRF;PL;3;PST
+пaйдaлaну	V;FRML;PL;2;PST
+пaйдaлaну	V;PROG;SG;2;INFM;PRS
+пaйдaлaну	V;PROG;FRML;PL;2;NEG;PRS
+пaйдaлaну	V;SG;3;NEG;PRS
+пaйдaлaну	V;SG;2;INFM;PST
+пaйдaлaну	V;SBJV;PL;3;FUT
+пaйдaлaну	V;IMP;SG;2;INFM
+пaйдaлaну	V;FRML;IMP;SG;2;NEG
+пaйдaлaну	V;FRML;SG;2;NEG;PST
+пaйдaлaну	V;PROG;PL;2;INFM;PRS
+пaйдaлaну	V;PL;2;INFM;PST
+пaйдaлaну	V;PL;1;PRS
+пaйдaлaну	V;FRML;IMP;SG;2
+пaйдaлaну	V;PROG;PL;1;NEG;PST
+пaйдaлaну	V;PRF;FRML;PL;2;NEG;PST
+пaйдaлaну	V;PL;3;PST
+пaйдaлaну	V;PROG;PL;1;NEG;PRS
+пaйдaлaну	V;PRF;SG;1;PST
+пaйдaлaну	V;SBJV;SG;3;FUT
+пaйдaлaну	V;PROG;PL;1;PRS
+пaйдaлaну	V;PRF;SG;2;NEG;INFM;PST
+пaйдaлaну	V;PROG;SG;3;NEG;PRS
+пaйдaлaну	V;SG;3;PST
+пaйдaлaну	V;PROG;SG;2;INFM;PST
+пaйдaлaну	V;PROG;SG;2;NEG;INFM;PRS
+пaйдaлaну	V;PROG;SG;1;PRS
+пaйдaлaну	V;PRF;FRML;SG;2;PST
+пaйдaлaну	V;PROG;SG;3;NEG;PST
+пaйдaлaну	V;PROG;PL;1;PST
+пaйдaлaну	V;PL;2;INFM;PRS
+пaйдaлaну	V;IMP;PL;2;INFM
+пaйдaлaну	V;PROG;SG;3;PST
+пaйдaлaну	V;PL;1;NEG;PST
+пaйдaлaну	V;SG;2;INFM;PRS
+пaйдaлaну	V;PL;2;NEG;INFM;PST
+пaйдaлaну	V;PROG;FRML;PL;2;NEG;PST
+пaйдaлaну	V;PROG;FRML;SG;2;PST
+пaйдaлaну	V;SG;3;NEG;PST
+пaйдaлaну	V;FRML;PL;2;NEG;PRS
+пaйдaлaну	V;PROG;SG;1;NEG;PST
+пaйдaлaну	V;PROG;FRML;SG;2;PRS
+пaйдaлaну	V;SBJV;SG;2;INFM;FUT
+пaйдaлaну	V;PROG;SG;1;PST
+пaйдaлaну	V;PL;1;PST
+пaйдaлaну	V;PRF;SG;2;INFM;PST
+пaйдaлaну	V;PRF;PL;1;PST
+пaйдaлaну	V;SG;2;NEG;INFM;PRS
+пaйдaлaну	V;SBJV;PL;2;INFM;FUT
+пaйдaлaну	V;PRF;SG;1;NEG;PST
+пaйдaлaну	V;FRML;IMP;PL;2
+пaйдaлaну	V;PROG;PL;3;NEG;PRS
+пaйдaлaну	V;PRF;PL;2;INFM;PST
+пaйдaлaну	V;SG;3;PRS
+пaйдaлaну	V;PRF;SG;3;PST
+пaйдaлaну	V;PROG;PL;2;NEG;INFM;PRS

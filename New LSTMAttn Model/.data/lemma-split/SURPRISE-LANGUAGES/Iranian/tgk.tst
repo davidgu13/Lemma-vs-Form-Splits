@@ -1,0 +1,16 @@
+хонанда	N;SG
+парранда	N;SG
+пул	N;NDEF;SG
+август	N;NDEF;SG
+бол	N;NDEF;SG
+саг	N;NDEF;SG
+душман	N;NDEF;SG
+тоҷик	N;SG
+тоҷик	N;PL
+май	N;NDEF;SG
+зар	N;NDEF;SG
+гул	N;NDEF;SG
+модар	N;NDEF;SG
+банда	N;NDEF;SG
+футбол	N;NDEF;SG
+самъ	N;NDEF;SG
