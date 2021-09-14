@@ -70,7 +70,7 @@ def generate_new_datasets(train, dev, test):
     random.shuffle(lemmas)
     # Now that we shuffled the data, we're ready to split it to 3 new sets, this time with absolute separation between the lemmas!
     train_prop, dev_prop, test_prop = 0.7, 0.2, 0.1
-    assert sum([train_prop, dev_prop, test_prop])==1
+    assert np.isclose(sum([train_prop, dev_prop, test_prop]), 1, atol=1e-08)
     train, test, dev = lemmas[:int(train_prop * n)], lemmas[int(train_prop * n):int((train_prop+dev_prop) * n)], lemmas[int((train_prop+dev_prop) * n):]
     train = dict2lists(train)
     dev = dict2lists(dev)
